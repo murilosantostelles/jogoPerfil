@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
 body{
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100%;
+    font-family: 'Comic Neue', cursive;
+    color: white;
 }
 
 .telaPerdeu{
@@ -16,4 +20,38 @@ body{
     justify-content: center;
     align-items: center;
     position: relative;
+}
+
+.div-pai{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.titulo-perdeu{
+    display: flex;
+    justify-content: center;
+    color: #ff7d00;
+    font-size: 1.8rem;
+}
+
+.box-pontuacao{
+    color: black;
+    font-size: 2.3rem;
+    background-color: #ffecd1;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    border: 5px solid #ff7d00 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.pontuacao-final{
+    color: #ff7d00;
+    font-size: 4.0rem;
+    margin: 0;
 }
