@@ -1,6 +1,19 @@
-img{
-   display: flex;
-   position: absolute; 
-   width: 100%;
-   height: 100%;
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.telaPerdeu{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("imagens/plano-de-fundo.jpg");
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 }
