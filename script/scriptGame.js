@@ -23,28 +23,28 @@ document.addEventListener("DOMContentLoaded", () => {
         pontosRodada = Math.max(0, pontosRodada - 10);
     }
 
-    botoes.forEach(btn => {
-        btn.addEventListener("click", () => {
-            if (btn.classList.contains("usado")) return;
+   botoes.forEach(btn => {
+    btn.addEventListener("click", () => {
+        if (btn.classList.contains("usado")) return;
 
-            somClique.currentTime = 0;
-            somClique.play();
+        const somClique = new Audio("efeitos/button_song.wav");
+        somClique.play();
 
-            reduzirPontos();
+        reduzirPontos();
 
-            const id = btn.getAttribute("data-id");
-            const original = document.getElementById("dica-" + id);
+        const id = btn.getAttribute("data-id");
+        const original = document.getElementById("dica-" + id);
 
-            if (original && dicasReveladas) {
-                const dica = original.cloneNode(true);
-                dica.style.display = "block";
-                dicasReveladas.appendChild(dica);
-            }
+        if (original && dicasReveladas) {
+            const dica = original.cloneNode(true);
+            dica.style.display = "block";
+            dicasReveladas.appendChild(dica);
+        }
 
-            btn.classList.add("usado");
-            btn.disabled = true;
-        });
+        btn.classList.add("usado");
+        btn.disabled = true;
     });
+});
 
     window.playerErrou = () => {
         reduzirPontos();
