@@ -28,7 +28,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 250px;
+    width: 170px;
     border-radius: 10px;
     font-size: 1.0rem;
     border: 2.5px solid #ffecd1;
@@ -36,15 +36,16 @@ body{
     cursor: pointer;
     transition: all 0.2s ease-in-out; 
     box-shadow: 0 4px 0 rgba(0,0,0,0.2); 
+    font-size: 1.3rem;
 }
 
-.voltar:hover{
+.voltar:hover ,.btn-dica:hover{
     transform: scale(1.1); 
     box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
     filter: brightness(1.2); 
 }
 
-.voltar:active{
+.voltar:active , .btn-dica:active{
     transform: scale(0.95);
     box-shadow: 0 2px 0 rgba(0,0,0,0.2);
 }
@@ -57,5 +58,113 @@ body{
     margin-left: auto;
     border-radius: 10px;
     border: 2.5px solid #ffecd1;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container-interface{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tema{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40%;
+    padding-bottom: 30px;
+}
+
+.imagem-interrogacao{
+}
+
+.interrogacao{
+    border-radius: 10px;
+    border: 2.5px solid #ffecd1;
+}
+
+.container-card-dicas {
+    background-color: #ffecd1;
+    border: 5px solid #ff7d00;
+    border-radius: 20px;
+    padding: 15px 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card-dicas {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.container-card-dicas h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+    color: black;
+}
+
+.texto-dica {
+    display: none;
+    background-color: #15616d;
+    padding: 12px 18px;
+    border-radius: 12px;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 0;
+    line-height: 0.5;
+}
+
+.alternar-dica:checked + .texto-dica {
+    display: block;
+}
+
+.alternar-dica {
+    display: none;
+}
+
+.botoes-dicas {
+    margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.btn-dica {
+    background-color: #708d81;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 3px solid #001524;
+    order: 2;
+    width: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.botoes-dicas > * {
+    order: 2;
+}
+
+.botoes-dicas > .texto-dica {
+    order: 1;
+    flex-basis: 100%;
+    margin-bottom: 0;
+}
+
+.alternar-dica:checked + .texto-dica + .btn-dica {
+    background-color: #a6c8be;
 }
 
