@@ -139,3 +139,18 @@ document.addEventListener("DOMContentLoaded", () => {
     visorPontos.innerText = `Score: ${scoreTotal}`;
   }
 });
+
+function reduzirPontosDaRodada() {
+        if (pontosRodada > 10) {
+            pontosRodada -= 10;
+        }
+    }
+
+    function formatarTexto(texto) {
+        return texto
+            .toString()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .trim();
+    }
