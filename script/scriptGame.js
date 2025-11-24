@@ -86,92 +86,160 @@ document.addEventListener("DOMContentLoaded", () => {
       ]
     },
   ];
+  
+    let cartaAtual = null;
+    let scoreTotal = 0;
+    let pontosRodada = 100;
+    let pulosRestantes = 3;
+    let dicasUsadas = 0;
 
+    const visorPontos = document.querySelector(".pontuacaoAtual h2");
+    const tituloTema = document.querySelector(".tema h2");
+    const areaDicasReveladas = document.getElementById("dicas-reveladas");
+    const botoesDica = document.querySelectorAll(".btn-dica");
+    const inputResposta = document.querySelector(".campo-de-resposta");
+    const btnEnviar = document.querySelector(".enviar");
+    const btnPular = document.querySelector(".btn-pular");
+    const audioFundo = document.getElementById("musicaFundo");
 
-  let cartaAtual = null;
-  let scoreTotal = 0;
-  let pontosRodada = 100;
-  let pulosRestantes = 3;
+    const somClique = new Audio("efeitos/button_song.wav");
+    const somAcerto = new Audio("efeitos/win.wav"); 
+    const somErro = new Audio("efeitos/error.wav"); 
 
-  const visorPontos = document.querySelector(".pontuacaoAtual h2");
-  const tituloTema = document.querySelector(".tema h2");
-  const areaDicasReveladas = document.getElementById("dicas-reveladas");
-  const botoesDica = document.querySelectorAll(".btn-dica");
-  const inputResposta = document.querySelector(".campo-de-resposta");
-  const btnEnviar = document.querySelector(".enviar");
-  const btnPular = document.querySelector(".btn-pular");
-  const audioFundo = document.getElementById("musicaFundo");
+    iniciarNovaRodada();
 
-  const somClique = new Audio("efeitos/button_song.wav");
-  const somAcerto = new Audio("efeitos/win.wav");
-  const somErro = new Audio("efeitos/fail_tick.wav");
+    function iniciarNovaRodada() {
+        const indice = Math.floor(Math.random() * bancoDePalavras.length);
+        cartaAtual = bancoDePalavras[indice];
 
-  iniciarNovaRodada();
+        pontosRodada = 100;
+        dicasUsadas = 0;
 
-  function iniciarNovaRodada() {
-    const indice = Math.floor(Math.random() * bancoDePalavras.length)
-    cartaAtual = bancoDePalavras[indice];
+        areaDicasReveladas.innerHTML = "";
+        inputResposta.value = "";
 
-    pontosRodada = 110;
-    areaDicasReveladas.innerHTML = "";
-    inputResposta.value = "";
+        tituloTema.innerText = `Eu sou: ${cartaAtual.tipo}`;
 
-    tituloTema.innerText = `Eu sou: ${cartaAtual.tipo}`;
+        botoesDica.forEach(btn => {
+            btn.classList.remove("usado");
+            btn.disabled = false;
+            btn.style.opacity = "1";
+        });
+
+        for (let i = 0; i < 10; i++) {
+            const elDica = document.getElementById(`dica-${i + 1}`);
+            if (elDica && cartaAtual.dicas[i]) {
+                elDica.innerText = cartaAtual.dicas[i];
+            } else if (elDica) {
+                elDica.innerText = "Sem Dica";
+            }
+        }
+    }
+
+    function atualizarPontuacao() {
+        visorPontos.innerText = `Score: ${scoreTotal}`;
+    }
+
+    function reduzirPontosDaRodada() {
+        if (pontosRodada > 10) {
+            pontosRodada -= 10;
+        }
+    }
+
+    function formatarTexto(texto) {
+        return texto.toString().normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+    }
+
+    function notificacaoAcerto() {
+        const corpo = document.body;
+        somAcerto.play().catch(e => console.log("Erro ao tocar som:", e));
+        
+        corpo.classList.add("vitoria-animacao");
+        
+        setTimeout(() => { 
+            corpo.classList.remove("vitoria-animacao"); 
+        }, 2500);
+    }
+
+    function verificarResposta() {
+        const respostaUsuario = formatarTexto(inputResposta.value);
+        const respostaCerta = formatarTexto(cartaAtual.palavra);
+
+        if (respostaUsuario === respostaCerta) {
+            notificacaoAcerto();
+            
+            setTimeout(() => {
+                alert(`PARABÉNS! A resposta era ${cartaAtual.palavra}.\nVocê ganhou ${pontosRodada} pontos!`);
+                scoreTotal += pontosRodada;
+                atualizarPontuacao();
+                iniciarNovaRodada();
+            }, 500);
+            
+        } else {
+            somErro.play().catch(()=>{});
+            alert("Resposta incorreta!");
+            inputResposta.value = "";
+            inputResposta.focus();
+        }
+    }
 
     botoesDica.forEach(btn => {
-      btn.classList.remove("Usado");
-      btn.disabled = false;
-      btn.style.opacity = "1";
+        btn.addEventListener("click", () => {
+            if (btn.classList.contains("usado")) return;
+
+            if (audioFundo && audioFundo.paused) {
+                audioFundo.volume = 0.2;
+                audioFundo.play().catch(() => {});
+            }
+
+            somClique.currentTime = 0;
+            somClique.play().catch(() => {});
+
+            dicasUsadas += 1;
+            reduzirPontosDaRodada();
+
+            const id = btn.getAttribute("data-id");
+            const textoDicaOculta = document.getElementById(`dica-${id}`);
+
+            if (textoDicaOculta) {
+                const novaDica = document.createElement("div");
+                novaDica.classList.add("texto-dica-revelada");
+                novaDica.style.background = "#092d33ff";
+                novaDica.style.color = "#ada292ff";
+                novaDica.style.padding = "10px";
+                novaDica.style.margin = "5px 0";
+                novaDica.style.borderRadius = "8px";
+                novaDica.innerText = `${id}. ${textoDicaOculta.innerText}`;
+                areaDicasReveladas.appendChild(novaDica);
+            }
+
+            btn.classList.add("usado");
+            btn.disabled = true;
+            btn.style.opacity = "0.5";
+        });
     });
 
-    for (let i = 0; i < 10; i++) {
-      const elDica = document.getElementById(`dica-${i + 1}`);
-      if (elDica && cartaAtual.dicas[i]) {
-        elDica.innerText = cartaAtual.dicas[i];
-      }
-      else if (elDica) {
-        elDica.innerText = "Sem Dica";
-      }
+    if (btnEnviar) {
+        btnEnviar.addEventListener("click", verificarResposta);
     }
-  }
 
-  function atualizarPontuacao() {
-    visorPontos.innerText = `Score: ${scoreTotal}`;
-  }
-
-
-  function reduzirPontosDaRodada() {
-    if (pontosRodada > 10) {
-      pontosRodada -= 10;
+    if (inputResposta) {
+        inputResposta.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") {
+                verificarResposta();
+            }
+        });
     }
-  }
 
-  function formatarTexto(texto) {
-    return texto
-      .toString()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, "")
-      .toLowerCase()
-      .trim();
-  }
-
-  function veirificarResposta() {
-    const respostaUsuario = formatarTexto(inputResposta.value);
-    const respostaCerta = formatarTexto(cartaAtual.palavra);
-    if (respostaUsuario === respostaCerta) {
-      notificacaoAcerto();
+    if (btnPular) {
+        btnPular.addEventListener("click", () => {
+            if (pulosRestantes > 0) {
+                pulosRestantes--;
+                btnPular.innerText = `Pular (${pulosRestantes}/3)`;
+                iniciarNovaRodada();
+            } else {
+                alert("Você não tem mais pulos!");
+            }
+        });
     }
-  }
-
-  function notificacaoAcerto() {
-    const corpo = document.body;
-    const somAcerto = new Audio("efeitos/check_song.wav");
-    somAcerto.play().catch(e => console.log("Erro ao tocar som:", e));
-    corpo.classList.add("acerto-animação");
-    setTimeout(() => { corpo.classList.remove("acerto-animacao"); }, 2500);
-
-
-  }
-
-
 });
