@@ -106,157 +106,170 @@ document.addEventListener("DOMContentLoaded", () => {
   const somAcerto = new Audio("efeitos/check_song.wav");
   const somErro = new Audio("efeitos/fail_tick.wav");
 
-  iniciarNovaRodada();
+  function somEstaLigado() {
+        return localStorage.getItem("efeitos") !== "off";
+    }
 
-  function iniciarNovaRodada() {
-    const indice = Math.floor(Math.random() * bancoDePalavras.length);
-    cartaAtual = bancoDePalavras[indice];
+    function tentarTocar(audio) {
+        if (somEstaLigado()) {
+            audio.currentTime = 0;
+            audio.play().catch(() => {});
+        }
+    }
 
-    pontosRodada = 100;
-    dicasUsadas = 0;
+    if (audioFundo) {
+        audioFundo.volume = 0.2; 
+        if (somEstaLigado()) {
+            audioFundo.play().catch(() => {});
+        } else {
+            audioFundo.pause();
+        }
+    }
 
-    areaDicasReveladas.innerHTML = "";
-    inputResposta.value = "";
+    iniciarNovaRodada();
 
-    tituloTema.innerText = `Eu sou: ${cartaAtual.tipo}`;
+    function iniciarNovaRodada() {
+        const indice = Math.floor(Math.random() * bancoDePalavras.length);
+        cartaAtual = bancoDePalavras[indice];
+
+        pontosRodada = 100;
+        dicasUsadas = 0;
+
+        areaDicasReveladas.innerHTML = "";
+        inputResposta.value = "";
+        
+        tituloTema.innerText = `Eu sou: ${cartaAtual.tipo}`;
+
+        botoesDica.forEach(btn => {
+            btn.classList.remove("usado");
+            btn.disabled = false;
+            btn.style.opacity = "1";
+        });
+
+        for (let i = 0; i < 10; i++) {
+            const elDica = document.getElementById(`dica-${i + 1}`);
+            if (elDica && cartaAtual.dicas[i]) {
+                elDica.innerText = cartaAtual.dicas[i];
+            } else if (elDica) {
+                elDica.innerText = "Sem dica"; 
+            }
+        }
+    }
+
+    function atualizarPontuacao() {
+        visorPontos.innerText = `Pontos: ${scoreTotal}`;
+    }
+
+    function reduzirPontosDaRodada() {
+        if (pontosRodada > 10) {
+            pontosRodada -= 10;
+        }
+    }
+
+    function formatarTexto(texto) {
+        return texto.toString().normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+    }
+
+    function notificacaoAcerto() {
+        const corpo = document.body;
+        tentarTocar(somAcerto);
+
+        corpo.classList.add("acerto-animacao");
+        setTimeout(() => {
+            corpo.classList.remove("acerto-animacao");
+        }, 500);
+    }
+
+    function notificacaoErro() {
+        const corpo = document.body;
+        tentarTocar(somErro);
+
+        corpo.classList.add("erro-animacao");
+        setTimeout(() => {
+            corpo.classList.remove("erro-animacao");
+        }, 500);
+    }
+    function verificarResposta() {
+      const respostaUsuario = formatarTexto(inputResposta.value);
+      const respostaCerta = formatarTexto(cartaAtual.palavra);
+      if (respostaUsuario === respostaCerta) {
+          notificacaoAcerto();
+          setTimeout(() => {
+          scoreTotal += pontosRodada;
+          atualizarPontuacao();
+          iniciarNovaRodada();}, 500);
+        } 
+      else {
+          notificacaoErro();
+          inputResposta.value = "";
+          inputResposta.focus();
+          if (dicasUsadas >= 10) {
+          setTimeout(() => {
+          window.location.href = "indexPerdeu.html";
+          }, 700);
+          return;
+            }
+        }
+    }
 
     botoesDica.forEach(btn => {
-      btn.classList.remove("usado");
-      btn.disabled = false;
-      btn.style.opacity = "1";
+        btn.addEventListener("click", () => {
+            if (btn.classList.contains("usado")) return;
+            tentarTocar(somClique);
+            if (audioFundo && audioFundo.paused && somEstaLigado()) {
+                audioFundo.play().catch(() => {});
+            }
+
+            dicasUsadas += 1; 
+            reduzirPontosDaRodada();
+
+            const id = btn.getAttribute("data-id");
+            const textoDicaOculta = document.getElementById(`dica-${id}`);
+
+            if (textoDicaOculta) {
+                const novaDica = document.createElement("div");
+                novaDica.classList.add("texto-dica-revelada");
+                novaDica.style.background = "#092d33ff";
+                novaDica.style.color = "#ada292ff";
+                novaDica.style.padding = "10px";
+                novaDica.style.margin = "5px 0";
+                novaDica.style.borderRadius = "8px";
+                novaDica.innerText = `${id}. ${textoDicaOculta.innerText}`;
+                
+                areaDicasReveladas.appendChild(novaDica);
+            }
+
+            btn.classList.add("usado");
+            btn.disabled = true;
+            btn.style.opacity = "0.5";
+        });
     });
 
-    for (let i = 0; i < 10; i++) {
-      const elDica = document.getElementById(`dica-${i + 1}`);
-      if (elDica && cartaAtual.dicas[i]) {
-        elDica.innerText = cartaAtual.dicas[i];
-      } else if (elDica) {
-        elDica.innerText = "Sem Dica";
-      }
+    if(btnEnviar) {
+        btnEnviar.addEventListener("click", verificarResposta);
     }
-  }
 
-  function atualizarPontuacao() {
-    visorPontos.innerText = `Score: ${scoreTotal}`;
-  }
-
-  function reduzirPontosDaRodada() {
-    if (pontosRodada > 10) {
-      pontosRodada -= 10;
+    if(inputResposta) {
+        inputResposta.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") {
+                verificarResposta();
+            }
+        });
     }
-  }
 
-  function formatarTexto(texto) {
-    return texto.toString().normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
-  }
-
-  function notificacaoAcerto() {
-    const corpo = document.body;
-    somAcerto.play().catch(e => console.log("Erro ao tocar som:", e));
-
-    corpo.classList.add("acerto-animacao");
-
-    setTimeout(() => {
-      corpo.classList.remove("acerto-animacao");
-    }, 500);
-  }
-
-  function notificacaoErro() {
-    const corpo = document.body;
-    somErro.play().catch(e => console.log("Erro ao tocar som:", e));
-
-    corpo.classList.add("erro-animacao");
-
-    setTimeout(() => {
-      corpo.classList.remove("erro-animacao");
-    }, 500);
-  }
-
-  function verificarResposta() {
-    const respostaUsuario = formatarTexto(inputResposta.value);
-    const respostaCerta = formatarTexto(cartaAtual.palavra);
-
-    if (respostaUsuario === respostaCerta) {
-      notificacaoAcerto();
-
-      setTimeout(() => {
-
-        scoreTotal += pontosRodada;
-        atualizarPontuacao();
-        iniciarNovaRodada();
-      }, 500);
-
-    } else {
-      notificacaoErro();
-      inputResposta.value = "";
-      inputResposta.focus();
-
-      if (dicasUsadas >= 10) {
-        setTimeout(() => {
-          window.location.href = "indexPerdeu.html";
-        }, 700);
-        return;
-      }
+    if(btnPular) {
+        btnPular.addEventListener("click", () => {
+            if (pulosRestantes > 0) {
+                pulosRestantes--;
+                btnPular.innerText = `Pular (${pulosRestantes}/3)`;
+                iniciarNovaRodada();
+            } else {
+                alert("Você não tem mais pulos!");
+            }
+        });
     }
-  }
-
-  botoesDica.forEach(btn => {
-    btn.addEventListener("click", () => {
-      if (btn.classList.contains("usado")) return;
-
-      if (audioFundo && audioFundo.paused) {
-        audioFundo.volume = 0.2;
-        audioFundo.play().catch(() => { });
-      }
-
-      somClique.currentTime = 0;
-      somClique.play().catch(() => { });
-
-      dicasUsadas += 1;
-      reduzirPontosDaRodada();
-
-      const id = btn.getAttribute("data-id");
-      const textoDicaOculta = document.getElementById(`dica-${id}`);
-
-      if (textoDicaOculta) {
-        const novaDica = document.createElement("div");
-        novaDica.classList.add("texto-dica-revelada");
-        novaDica.style.background = "#092d33ff";
-        novaDica.style.color = "#ada292ff";
-        novaDica.style.padding = "10px";
-        novaDica.style.margin = "5px 0";
-        novaDica.style.borderRadius = "8px";
-        novaDica.innerText = `${id}. ${textoDicaOculta.innerText}`;
-        areaDicasReveladas.appendChild(novaDica);
-      }
-
-      btn.classList.add("usado");
-      btn.disabled = true;
-      btn.style.opacity = "0.5";
-    });
-  });
-
-  if (btnEnviar) {
-    btnEnviar.addEventListener("click", verificarResposta);
-  }
-
-  if (inputResposta) {
-    inputResposta.addEventListener("keypress", (e) => {
-      if (e.key === "Enter") {
-        verificarResposta();
-      }
-    });
-  }
-
-  if (btnPular) {
-    btnPular.addEventListener("click", () => {
-      if (pulosRestantes > 0) {
-        pulosRestantes--;
-        btnPular.innerText = `Pular (${pulosRestantes}/3)`;
-        iniciarNovaRodada();
-      } else {
-        alert("Você não tem mais pulos!");
-      }
-    });
-  }
 });
+
+window.irPara = function(url) {
+    window.location.href = url;
+}

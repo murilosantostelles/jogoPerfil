@@ -44,10 +44,10 @@ function irPara(caminho) {
 }
 
 window.onload = () => {
-    if (window.location.pathname.includes("indexMenu.html")) {
+    if (localStorage.getItem("efeitos") === null) {
         localStorage.setItem("efeitos", "on");
-        efeitosAtivos = true;
     }
+    efeitosAtivos = localStorage.getItem("efeitos") !== "off";
 
     atualizarTextoEfeitos();
     atualizarMusica();

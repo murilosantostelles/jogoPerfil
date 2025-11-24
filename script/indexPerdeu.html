@@ -17,23 +17,17 @@
                 <p class="pontuacao-final"><span class="pontos-rodada"></span>0</p>
             </div>
             <div class="botoes-de-retorno">
-                <a href="indexGame.html">
-                    <button class="jogarNovamente">
-                        <h2>Jogar Novamente</h2>
-                    </button>
-                </a>
-                <a href="indexMenu.html">
-                    <button class="menu">
-                        <h2>Menu</h2>
-                    </button>
-                </a>
+                <button class="jogarNovamente" onclick="irPara('indexGame.html')"><h2>Jogar Novamente</h2></button>
+                <button class="menu" onclick="irPara('indexMenu.html')"><h2>Menu</h2></button>
             </div>
             <div class="criadoresDoJogo">
                 <p>Criado por @Murilo e @Vinicius</p>
             </div>
         </div>
-        <audio id="musicaFundo" src="efeitos/menu_song.wav" loop></audio>
+        <audio id="somAbertura" src="efeitos/fail_song.wav"></audio>
+        <audio id="musicaLoop" src="efeitos/menu_song.wav" loop></audio>
         <script src="scriptMenu.js"></script>
+        <script src="scriptPerdeu.js"></script>
     </section>
 </body>
 </html>
