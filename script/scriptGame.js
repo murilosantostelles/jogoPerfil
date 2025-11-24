@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function atualizarPontuacao() {
     visorPontos.innerText = `Score: ${scoreTotal}`;
   }
-});
+
 
 function reduzirPontosDaRodada() {
         if (pontosRodada > 10) {
@@ -154,3 +154,4 @@ function reduzirPontosDaRodada() {
             .toLowerCase()
             .trim();
     }
+});
