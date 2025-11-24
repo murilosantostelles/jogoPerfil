@@ -230,13 +230,25 @@ body {
 }
 
 body.acerto-animacao {
-    background-color: rgb(25, 85, 25) !important;
+    background-color: rgb(27, 247, 27) !important;
     transition: background-color 0.5s ease-in-out;
+}
+
+body.erro-animacao {
+    background-color: red;
+    transition: backgroud-color 0.5s ease-in-out;
 }
 
 body.acerto-animacao .pontuacaoAtual,
 body.acerto-animacao .tema,
 body.acerto-animacao h2 {
+    color: white !important;
+    border-color: white !important;
+}
+
+body.erro-animacao .pontuacaoAtual,
+body.erro-animacao .tema,
+body.erro-animacao h2 {
     color: white !important;
     border-color: white !important;
 }
