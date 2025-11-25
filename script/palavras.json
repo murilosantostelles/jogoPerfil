@@ -1957,7 +1957,7 @@
     {
         "id": 120,
         "palavra": "Tubarão",
-        "tipo": "animal",
+        "tipo": "objeto",
         "dicas": [
             "Sou um animal marinho.",
             "Tenho várias fileiras de dentes.",
@@ -2025,7 +2025,7 @@
     {
         "id": 124,
         "palavra": "Borboleta",
-        "tipo": "animal",
+        "tipo": "objeto",
         "dicas": [
             "Sou um inseto.",
             "Tenho asas coloridas.",
@@ -2076,7 +2076,7 @@
     {
         "id": 127,
         "palavra": "Gorila",
-        "tipo": "animal",
+        "tipo": "objeto",
         "dicas": [
             "Sou um primata.",
             "Sou muito forte.",
@@ -2093,7 +2093,7 @@
     {
         "id": 128,
         "palavra": "Abacaxi",
-        "tipo": "comida",
+        "tipo": "Objeto",
         "dicas": [
             "Sou uma fruta tropical.",
             "Tenho casca áspera.",
@@ -2127,7 +2127,7 @@
     {
         "id": 130,
         "palavra": "Esquilo",
-        "tipo": "animal",
+        "tipo": "objeto",
         "dicas": [
             "Sou pequeno e ágil.",
             "Gosto de subir em árvores.",
@@ -2190,6 +2190,873 @@
             "Apareço em muitos documentários.",
             "Sou conhecido por me camuflar.",
             "Meu nome começa com C."
+        ]
+    },
+    {
+        "id": 134,
+        "palavra": "Isaac Newton",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou um cientista muito famoso.",
+            "Nasci no século XVII.",
+            "Estudei movimento e gravidade.",
+            "Fui matemático e físico.",
+            "Contribuí para o cálculo.",
+            "Observei a queda de uma maçã.",
+            "Sou inglês.",
+            "Escrevi obras importantes.",
+            "Desenvolvi leis sobre força.",
+            "Meu sobrenome começa com N."
+        ]
+    },
+    {
+        "id": 135,
+        "palavra": "Mozart",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou um grande compositor.",
+            "Nasci na Áustria no século XVIII.",
+            "Fui considerado um gênio desde criança.",
+            "Escrevi muitas sinfonias.",
+            "Compus óperas famosas.",
+            "Tinha enorme facilidade para música.",
+            "Morri jovem.",
+            "Influenciei toda a música clássica.",
+            "Meu nome completo é longo.",
+            "Meu sobrenome começa com M."
+        ]
+    },
+    {
+        "id": 136,
+        "palavra": "Stephen Hawking",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou físico teórico.",
+            "Estudei buracos negros.",
+            "Escrevi livros de divulgação científica.",
+            "Fui professor em Cambridge.",
+            "Vivi com uma doença degenerativa.",
+            "Tornei-me referência em cosmologia.",
+            "Fiquei conhecido pela voz sintetizada.",
+            "Apareci em séries e documentários.",
+            "Nasci no século XX.",
+            "Meu sobrenome começa com H."
+        ]
+    },
+    {
+        "id": 138,
+        "palavra": "Stephen King",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou escritor.",
+            "Fico conhecido por histórias de terror.",
+            "Escrevi 'It'.",
+            "Tenho muitos livros adaptados para filmes.",
+            "Nasci nos Estados Unidos.",
+            "Sou um dos autores mais vendidos do mundo.",
+            "Comecei a escrever ainda jovem.",
+            "Fui professor.",
+            "Meu nome aparece em muitas listas literárias.",
+            "Meu sobrenome é King."
+        ]
+    },
+    {
+        "id": 139,
+        "palavra": "Confúcio",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou um filósofo.",
+            "Nasci na Antiguidade.",
+            "Minhas ideias influenciam muitos países.",
+            "Falo sobre moral, virtude e sociedade.",
+            "Sou muito estudado até hoje.",
+            "Minhas frases são famosas.",
+            "Trabalhei como professor.",
+            "Tive muitos discípulos.",
+            "Minhas ideias formam um sistema filosófico.",
+            "Meu nome começa com C."
+        ]
+    },
+    {
+        "id": 141,
+        "palavra": "Usain Bolt",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou atleta.",
+            "Especialista em corrida.",
+            "Ganhei várias medalhas olímpicas.",
+            "Sou muito rápido.",
+            "Tenho recordes mundiais.",
+            "Nasci na Jamaica.",
+            "Fui destaque nas provas de 100 e 200 metros.",
+            "Meu apelido envolve um raio.",
+            "Corri em grandes estádios.",
+            "Meu sobrenome começa com B."
+        ]
+    },
+    {
+        "id": 142,
+        "palavra": "Morgan Freeman",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator.",
+            "Tenho uma voz muito marcante.",
+            "Atuei em filmes premiados.",
+            "Sou norte-americano.",
+            "Faço muitos papéis de autoridade.",
+            "Sou reconhecido por minha narração.",
+            "Ganhei um Oscar.",
+            "Participo de muitos documentários.",
+            "Tenho carreira longa.",
+            "Meu sobrenome começa com F."
+        ]
+    },
+    {
+        "id": 143,
+        "palavra": "Amelia Earhart",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou pioneira.",
+            "Fui uma das primeiras mulheres na aviação.",
+            "Atravessei o oceano.",
+            "Fiquei famosa por minha coragem.",
+            "Desapareci misteriosamente.",
+            "Inspirei muitas outras mulheres.",
+            "Nasci nos Estados Unidos.",
+            "Meu caso é estudado até hoje.",
+            "Tenho livros sobre minha vida.",
+            "Meu sobrenome começa com E."
+        ]
+    },
+    {
+        "id": 144,
+        "palavra": "Bruce Lee",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator e lutador.",
+            "Popularizei as artes marciais no cinema.",
+            "Tenho velocidade impressionante.",
+            "Meus filmes viraram clássicos.",
+            "Criei meu próprio estilo de luta.",
+            "Sou muito admirado no mundo todo.",
+            "Fui um ícone cultural.",
+            "Nasci no século XX.",
+            "Tive carreira curta, mas marcante.",
+            "Meu sobrenome é Lee."
+        ]
+    },
+    {
+        "id": 147,
+        "palavra": "Nikola Tesla",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou inventor.",
+            "Trabalhei com eletricidade.",
+            "Minhas ideias foram revolucionárias.",
+            "Nasci na Europa no século XIX.",
+            "Contribuí para a corrente alternada.",
+            "Sou tema de muitos livros.",
+            "Fui rival de Thomas Edison.",
+            "Meu nome é muito citado hoje.",
+            "Tenho estátuas em vários lugares.",
+            "Meu sobrenome começa com T."
+        ]
+    },
+    {
+        "id": 148,
+        "palavra": "Tolkien",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou escritor.",
+            "Criei mundos de fantasia complexos.",
+            "Escrevi 'O Senhor dos Anéis'.",
+            "Também sou linguista.",
+            "Nasci na África do Sul e vivi no Reino Unido.",
+            "Desenvolvi idiomas fictícios.",
+            "Minha obra inspirou muitos autores.",
+            "Fui professor em Oxford.",
+            "Tenho fãs no mundo todo.",
+            "Meu sobrenome começa com T."
+        ]
+    },
+    {
+        "id": 149,
+        "palavra": "Maria Antonieta",
+        "tipo": "pessoa",
+        "dicas": [
+            "Fui uma figura importante da França.",
+            "Meu nome está ligado à monarquia.",
+            "Sou lembrada por meu estilo extravagante.",
+            "Vivi no século XVIII.",
+            "Fui casada com um rei.",
+            "Meu destino foi trágico.",
+            "Sou associada à Revolução Francesa.",
+            "Há muitas frases atribuídas a mim.",
+            "Meu nome aparece em livros de história.",
+            "Meu sobrenome começa com A."
+        ]
+    },
+    {
+        "id": 151,
+        "palavra": "Frida Kahlo",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou pintora.",
+            "Minha arte é marcada por símbolos fortes.",
+            "Sofri um acidente que mudou minha vida.",
+            "Tenho origem latino-americana.",
+            "Sou conhecida por autorretratos.",
+            "Meu estilo é considerado único.",
+            "Meu nome aparece em museus e exposições.",
+            "Fui casada com outro artista famoso.",
+            "Me tornei um ícone cultural.",
+            "Meu sobrenome começa com K."
+        ]
+    },
+    {
+        "id": 152,
+        "palavra": "Freud",
+        "tipo": "pessoa",
+        "dicas": [
+            "Fui um pensador influente.",
+            "Criei uma nova área de estudo.",
+            "Meu trabalho envolve a mente humana.",
+            "Nasci na Europa.",
+            "Fui médico de formação.",
+            "Desenvolvi teorias polêmicas.",
+            "Minha obra influenciou muitas áreas.",
+            "Meu nome é estudado até hoje.",
+            "Fundamentei a psicanálise.",
+            "Meu sobrenome começa com F."
+        ]
+    },
+    {
+        "id": 155,
+        "palavra": "Tarantino",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou diretor de cinema.",
+            "Meus filmes têm diálogos marcantes.",
+            "Sou conhecido por cenas intensas.",
+            "Trabalho desde o século XX.",
+            "Ganhei Oscar.",
+            "Meu estilo é facilmente reconhecível.",
+            "Fui funcionário de locadora.",
+            "Tenho fãs no mundo inteiro.",
+            "Sou norte-americano.",
+            "Meu sobrenome começa com T."
+        ]
+    },
+    {
+        "id": 157,
+        "palavra": "Agatha Christie",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou escritora.",
+            "Fiquei famosa por romances de mistério.",
+            "Criei detetives icônicos.",
+            "Nasci no Reino Unido.",
+            "Venda milhões de livros.",
+            "Sou uma das autoras mais lidas do mundo.",
+            "Minhas histórias têm finais inesperados.",
+            "Muitas obras viraram filmes e séries.",
+            "Vivi no século XX.",
+            "Meu sobrenome começa com C."
+        ]
+    },
+    {
+        "id": 158,
+        "palavra": "Islândia",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou um país.",
+            "Tenho muitas paisagens naturais.",
+            "Sou conhecido por vulcões e geleiras.",
+            "Minha capital fica no litoral.",
+            "Tenho águas termais muito famosas.",
+            "Fico no norte do Atlântico.",
+            "Tenho baixa população.",
+            "Possuo muitos fenômenos naturais.",
+            "A aurora boreal é visível aqui.",
+            "Meu nome começa com I."
+        ]
+    },
+    {
+        "id": 159,
+        "palavra": "Nigéria",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou um país africano.",
+            "Tenho população muito numerosa.",
+            "Minha economia é uma das maiores do continente.",
+            "Tenho grande diversidade cultural.",
+            "Sou conhecido pela indústria cinematográfica.",
+            "Tenho várias línguas faladas.",
+            "Minha capital não é minha maior cidade.",
+            "Sou banhado pelo Atlântico.",
+            "Meu nome aparece em rankings internacionais.",
+            "Meu nome começa com N."
+        ]
+    },
+    {
+        "id": 160,
+        "palavra": "Havaí",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou formado por ilhas.",
+            "Tenho clima tropical.",
+            "Sou famoso por praias.",
+            "As pessoas surfam muito aqui.",
+            "Tenho vulcões ativos.",
+            "Pertenço aos Estados Unidos.",
+            "A cultura local é muito marcante.",
+            "Sou destino turístico.",
+            "Minha capital é Honolulu.",
+            "Meu nome começa com H."
+        ]
+    },
+    {
+        "id": 161,
+        "palavra": "Telescópio",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usado para observar.",
+            "Vejo coisas distantes.",
+            "Sou muito usado em astronomia.",
+            "Existem versões amadoras e profissionais.",
+            "Posso ser muito grande.",
+            "Ajudo cientistas em descobertas.",
+            "Funciono com lentes ou espelhos.",
+            "Fico apontado para o céu.",
+            "Sou encontrado em observatórios.",
+            "Meu nome começa com T."
+        ]
+    },
+    {
+        "id": 162,
+        "palavra": "Capacete",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou uma proteção.",
+            "Sou usado na cabeça.",
+            "Apareço em diversos esportes.",
+            "Sou feito de materiais resistentes.",
+            "Sou obrigatório em algumas atividades.",
+            "Meu uso evita acidentes graves.",
+            "Sou comum em construções.",
+            "Soldados também me utilizam.",
+            "Sou encontrado em vários formatos.",
+            "Meu nome começa com C."
+        ]
+    },
+    {
+        "id": 163,
+        "palavra": "Agenda",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usada no dia a dia.",
+            "Ajudo a organizar compromissos.",
+            "Posso ser física ou digital.",
+            "Tenho páginas ou interface.",
+            "Sou muito usada por estudantes.",
+            "Profissionais também dependem de mim.",
+            "Ajudo na produtividade.",
+            "Sou encontrada em vários tamanhos.",
+            "Posso ter calendário integrado.",
+            "Meu nome começa com A."
+        ]
+    },
+    {
+        "id": 164,
+        "palavra": "Bússola",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usada há séculos para navegação.",
+            "Funciono apontando para uma direção específica.",
+            "Ajudava muito exploradores e viajantes.",
+            "Sou pequena e portátil.",
+            "Não preciso de energia elétrica.",
+            "Posso ser usada em trilhas.",
+            "Sou comum em kits de sobrevivência.",
+            "Meu funcionamento depende do campo magnético.",
+            "Fui fundamental em grandes expedições.",
+            "Normalmente sou guardada no bolso."
+        ]
+    },
+    {
+        "id": 165,
+        "palavra": "Serra do Mar",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma longa cadeia montanhosa.",
+            "Estou localizada no litoral de um país sul-americano.",
+            "Tenho grande importância ecológica.",
+            "Sou coberta por Mata Atlântica.",
+            "Vários estados me atravessam.",
+            "Possuo áreas de preservação.",
+            "Sou conhecida por minha biodiversidade.",
+            "Alguns trechos têm vistas para o mar.",
+            "Sou formada por terrenos antigos.",
+            "Muitas cidades ficam próximas a mim."
+        ]
+    },
+    {
+        "id": 167,
+        "palavra": "Viena",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma capital europeia.",
+            "Tenho arquitetura elegante e histórica.",
+            "Sou famosa pela música clássica.",
+            "Diversos compositores viveram aqui.",
+            "Tenho cafés muito tradicionais.",
+            "Fui centro político de um grande império.",
+            "Eventos culturais acontecem o ano todo.",
+            "Possuo palácios famosos.",
+            "Sou muito visitada por turistas.",
+            "Minha atmosfera mistura tradição e modernidade."
+        ]
+    },
+    {
+        "id": 168,
+        "palavra": "Farol",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou encontrado próximo ao mar.",
+            "Minha luz é visível à longa distância.",
+            "Ajudo a orientar embarcações.",
+            "Meu funcionamento já foi manual.",
+            "Hoje posso ser automatizado.",
+            "Fico em estruturas altas.",
+            "Sou símbolo de segurança marítima.",
+            "Já apareci em muitos filmes.",
+            "Sou resistente a ventos fortes.",
+            "Existem versões históricas muito famosas."
+        ]
+    },
+    {
+        "id": 169,
+        "palavra": "Franz Kafka",
+        "tipo": "pessoa",
+        "dicas": [
+            "Fui escritor.",
+            "Minha obra tem um estilo único e perturbador.",
+            "Criei histórias de opressão e absurdo.",
+            "Minha vida foi reservada.",
+            "Minha obra mais famosa envolve um homem transformado.",
+            "Escrevi em alemão.",
+            "Me tornei mais famoso após minha morte.",
+            "Pedi para meu amigo destruir meus manuscritos.",
+            "Sou estudado em universidades do mundo todo.",
+            "Sou associado ao termo 'kafkiano'."
+        ]
+    },
+    {
+        "id": 170,
+        "palavra": "Capadócia",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma região turística muito famosa.",
+            "Tenho formações rochosas incomuns.",
+            "Passeios de balão são tradição aqui.",
+            "Minha paisagem parece outro planeta.",
+            "Abrigo cidades subterrâneas antigas.",
+            "Fiquei conhecida pelas 'chaminés de fada'.",
+            "Sou patrimônio mundial.",
+            "Tenho clima semiárido.",
+            "Recebo milhares de visitantes por ano.",
+            "Minhas cavernas foram usadas como moradia."
+        ]
+    },
+    {
+        "id": 171,
+        "palavra": "Sino",
+        "tipo": "objeto",
+        "dicas": [
+            "Produzo som ao ser movimentado.",
+            "Sou usado em cerimônias.",
+            "Apareço em templos e igrejas.",
+            "Posso ser pequeno ou gigante.",
+            "Fui usado historicamente para avisos.",
+            "Meu som é metálico.",
+            "Sou feito comumente de bronze.",
+            "Também apareço em escolas antigas.",
+            "Já fui tocado para marcar horas.",
+            "Alguns me consideram um símbolo espiritual."
+        ]
+    },
+    {
+        "id": 172,
+        "palavra": "Marrocos",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou um país.",
+            "Tenho cidades com mercados tradicionais.",
+            "Possuo influência árabe e berbere.",
+            "Meus artesanatos são muito conhecidos.",
+            "Tenho desertos, montanhas e litoral.",
+            "Minha culinária inclui pratos com especiarias.",
+            "Tenho uma cidade famosa pela cor azul.",
+            "Sou um destino turístico popular.",
+            "Minha história é muito antiga.",
+            "Fico no continente africano."
+        ]
+    },
+    {
+        "id": 174,
+        "palavra": "Globo",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou educativo.",
+            "Mostro fronteiras e continentes.",
+            "Sou usado em escolas e escritórios.",
+            "Ajudo a visualizar o planeta.",
+            "Posso girar sobre um eixo.",
+            "Existem versões iluminadas.",
+            "Sou comum em mesas de estudo.",
+            "Mostro oceanos e países.",
+            "Já existo há muitos séculos.",
+            "Ajudo a ensinar geografia."
+        ]
+    },
+    {
+        "id": 177,
+        "palavra": "Pente",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usado no cotidiano.",
+            "Sirvo para organizar algo.",
+            "Posso ser feito de madeira ou plástico.",
+            "Sou encontrado em salões de beleza.",
+            "Sou portátil.",
+            "Tenho dentes alinhados.",
+            "Sou útil para desembaraçar.",
+            "Tenho vários formatos.",
+            "Costumo ficar no banheiro.",
+            "Sou muito usado pela manhã."
+        ]
+    },
+    {
+        "id": 180,
+        "palavra": "Monte Fuji",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma montanha muito fotografada.",
+            "Sou um símbolo cultural.",
+            "Tenho formato cônico.",
+            "Minha aparência muda conforme a estação.",
+            "Sou destino de trilhas e peregrinações.",
+            "Tenho neve em parte do ano.",
+            "Fico próximo de cidades populosas.",
+            "Sou considerado sagrado.",
+            "Já apareci em inúmeras pinturas tradicionais.",
+            "Sou o ponto mais alto do meu país."
+        ]
+    },
+    {
+        "id": 181,
+        "palavra": "Clarice Lispector",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou uma escritora muito estudada.",
+            "Minha obra explora emoções profundas.",
+            "Minha personalidade é considerada enigmática.",
+            "Migrei para o Brasil ainda criança.",
+            "Me tornei referência na literatura moderna.",
+            "Escrevi romances, contos e crônicas.",
+            "Meu estilo é introspectivo.",
+            "Minha escrita influenciou muitas gerações.",
+            "Fui jornalista também.",
+            "Uma das minhas frases virou meme sem querer."
+        ]
+    },
+    {
+        "id": 183,
+        "palavra": "Violoncelo",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou um instrumento musical.",
+            "Tenho corpo grande.",
+            "Sou tocado com arco.",
+            "Minha sonoridade é grave e expressiva.",
+            "Sou comum em orquestras.",
+            "Fico apoiado ao chão durante a execução.",
+            "Tenho quatro cordas.",
+            "Sou feito tradicionalmente de madeira.",
+            "Requer postura específica para tocar.",
+            "Sou apreciado em músicas clássicas."
+        ]
+    },
+    {
+        "id": 185,
+        "palavra": "Seul",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma capital moderna.",
+            "Tenho distritos tecnológicos.",
+            "Misturo tradição e inovação.",
+            "Sou famosa por mercados noturnos.",
+            "Minha culinária é muito característica.",
+            "Tenho palácios preservados.",
+            "Minha população é enorme.",
+            "Sou conhecida por entretenimento pop.",
+            "Meu metrô é bastante avançado.",
+            "Fico no leste da Ásia."
+        ]
+    },
+    {
+        "id": 186,
+        "palavra": "Âncora",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou fundamental para embarcações.",
+            "Uso peso para fixação.",
+            "Fico junto a cordas ou correntes.",
+            "Minha função é evitar movimentos indesejados.",
+            "Já existo desde a antiguidade.",
+            "Tenho formatos variados.",
+            "Sou símbolo de estabilidade.",
+            "Mergulho até o fundo para cumprir meu papel.",
+            "Sou usada tanto em barcos pequenos quanto grandes.",
+            "Muitos me associam ao mar."
+        ]
+    },
+    {
+        "id": 187,
+        "palavra": "Jordânia",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou um país.",
+            "Tenho desertos famosos.",
+            "Abrigo uma antiga cidade esculpida em pedra.",
+            "Minha cultura é muito rica.",
+            "Fico no Oriente Médio.",
+            "Sou destino turístico por causa da minha história.",
+            "Tenho sítios arqueológicos impressionantes.",
+            "Meu clima é predominantemente seco.",
+            "Muitos povos antigos passaram por aqui.",
+            "Sou politicamente importante na região."
+        ]
+    },
+    {
+        "id": 189,
+        "palavra": "Corda",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usada para prender ou segurar coisas.",
+            "Posso ser grossa ou fina.",
+            "Sou feita de fibras torcidas.",
+            "Tenho muita resistência.",
+            "Sou utilizada em escadas, esportes e transporte.",
+            "Marinheiros dependem muito de mim.",
+            "Já fui feita com materiais naturais.",
+            "Sou comum em acampamentos.",
+            "Sou leve e portátil.",
+            "Posso ser trançada de várias formas."
+        ]
+    },
+    {
+        "id": 191,
+        "palavra": "Chaleira",
+        "tipo": "objeto",
+        "dicas": [
+            "Sou usada na cozinha.",
+            "Sirvo para aquecer líquidos.",
+            "Muitas versões assobiam quando estou pronta.",
+            "Sou encontrada em acampamentos.",
+            "Posso ser de metal ou vidro.",
+            "Sou usada em rituais de chá.",
+            "Minha tampa normalmente é removível.",
+            "Sou resistente ao calor.",
+            "Fui muito comum antes dos elétricos.",
+            "Sou bastante prática no dia a dia."
+        ]
+    },
+    {
+        "id": 193,
+        "palavra": "Santiago",
+        "tipo": "lugar",
+        "dicas": [
+            "Sou uma capital.",
+            "Fico rodeada por montanhas.",
+            "Tenho clima seco na maior parte do ano.",
+            "Possuo bairros modernos.",
+            "Sou conhecida por vinhos próximos à região.",
+            "Tenho museus e centros culturais importantes.",
+            "Meu trânsito é intenso.",
+            "Vários turistas me visitam anualmente.",
+            "Tenho uma cordilheira visível da cidade.",
+            "Sou uma das maiores cidades da América do Sul."
+        ]
+    },
+    {
+        "id": 194,
+        "palavra": "Robert Downey Jr.",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator.",
+            "Meu sobrenome começa com D.",
+            "Tive altos e baixos na carreira.",
+            "Sou conhecido por interpretar um herói tecnológico.",
+            "Fiz parte de um grande universo cinematográfico.",
+            "Atuei em filmes de ação e comédia.",
+            "Também participei de produções independentes.",
+            "Ganhei muitos fãs em todo o mundo.",
+            "Tenho um estilo carismático.",
+            "Sou um dos atores mais bem pagos."
+        ]
+    },
+    {
+        "id": 195,
+        "palavra": "Lady Gaga",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou cantora.",
+            "Tenho um estilo artístico único.",
+            "Fiquei famosa com músicas pop.",
+            "Também sou atriz.",
+            "Meu nome artístico começa com L.",
+            "Uso figurinos marcantes.",
+            "Ganhei muitos prêmios.",
+            "Participei de produções de cinema.",
+            "Tenho uma grande base de fãs.",
+            "Sou conhecida por minha voz poderosa."
+        ]
+    },
+    {
+        "id": 196,
+        "palavra": "Tom Hanks",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator.",
+            "Atuo há muitas décadas.",
+            "Já interpretei personagens emocionantes.",
+            "Protagonizei histórias inspiradoras.",
+            "Ganhei prêmios importantes.",
+            "Tenho uma voz facilmente reconhecível.",
+            "Atuei em filmes de comédia e drama.",
+            "Sou muito respeitado na indústria.",
+            "Meu sobrenome começa com H.",
+            "Interpretou um marinheiro famoso em uma animação."
+        ]
+    },
+    {
+        "id": 197,
+        "palavra": "Zendaya",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou atriz.",
+            "Comecei em produções juvenis.",
+            "Ganhei destaque em uma série dramática.",
+            "Também sou cantora e modelo.",
+            "Meu nome começa com Z.",
+            "Tenho forte presença na cultura pop.",
+            "Fiz par romântico em filmes de super-herói.",
+            "Gosto de moda.",
+            "Ganhei prêmios importantes.",
+            "Tenho milhões de seguidores."
+        ]
+    },
+    {
+        "id": 198,
+        "palavra": "Keanu Reeves",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator.",
+            "Protagonizei filmes de ação icônicos.",
+            "Fiquei famoso nos anos 90.",
+            "Meu sobrenome começa com R.",
+            "Sou conhecido por ser gentil com fãs.",
+            "Interpretei um personagem envolvido com realidade virtual.",
+            "Atuei em uma saga de ação moderna.",
+            "Tenho uma carreira longa.",
+            "Também toco baixo.",
+            "Tenho fama de humilde."
+        ]
+    },
+    {
+        "id": 199,
+        "palavra": "Adele",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou cantora.",
+            "Tenho voz poderosa.",
+            "Minhas músicas são emocionantes.",
+            "Meu nome começa com A.",
+            "Ganhei diversos prêmios.",
+            "Meus álbuns batem recordes.",
+            "Sou conhecida pelo estilo clássico.",
+            "Faço performances ao vivo marcantes.",
+            "Meu nome artístico é curto.",
+            "Tenho forte presença na mídia."
+        ]
+    },
+    {
+        "id": 200,
+        "palavra": "Murilo",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou um dos criadores do Jogo Perfil",
+            "Meu nome começa com a letra M",
+            "Meu nome termina com a letra O",
+            "Sou o criador do Jogo Perfil",
+            "Meu nome começa com a letra M",
+            "Meu nome termina com a letra O",
+            "Sou um dos criadores do Jogo Perfil",
+            "Meu nome começa com a letra M",
+            "Meu nome termina com a letra O",
+            "Sou um dos criadores do Jogo Perfil"
+        ]
+    },
+    {
+        "id": 201,
+        "palavra": "Dwayne Johnson",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou ator.",
+            "Meu sobrenome começa com J.",
+            "Fui atleta profissional.",
+            "Sou conhecido por filmes de ação.",
+            "Tenho grande força física.",
+            "Também fiz comédias.",
+            "Participei de franquias famosas.",
+            "Sou muito carismático.",
+            "Tenho milhões de seguidores.",
+            "Meu apelido é amplamente reconhecido."
+        ]
+    },
+    {
+        "id": 202,
+        "palavra": "Anne Hathaway",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou atriz.",
+            "Participei de filmes de fantasia e drama.",
+            "Fiquei famosa com uma comédia sobre moda.",
+            "Ganhei prêmios importantes.",
+            "Tenho grande versatilidade.",
+            "Fiz papéis marcantes em musicais.",
+            "Atuo desde jovem.",
+            "Meu sobrenome começa com H.",
+            "Sou muito reconhecida pelo sorriso.",
+            "Tenho carreira internacional."
+        ]
+    },
+    {
+        "id": 203,
+        "palavra": "Ed Sheeran",
+        "tipo": "pessoa",
+        "dicas": [
+            "Sou cantor.",
+            "Escrevo minhas próprias músicas.",
+            "Minha carreira começou de forma simples.",
+            "Tenho estilo acústico.",
+            "Ganhei prêmios importantes.",
+            "Meu cabelo é marcante.",
+            "Faço turnês enormes.",
+            "Tenho canções muito populares.",
+            "Já fiz participações especiais em séries.",
+            "Meu sobrenome começa com S."
         ]
     }
 ]
