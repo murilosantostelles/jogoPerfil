@@ -1,29 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
-body{
-    display: flex;;
+
+body {
+    display: grid;
+    place-items: start center;
     background-color: #001524;
     padding-top: 100px;
-    justify-content: center;
+    margin: 0;
 }
 
-.container-tutorial{
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    margin: 0%;
-    font-family: 'Comic Neue', cursive; 
+.container-tutorial {
+    display: grid;
+    grid-auto-flow: row;
+    gap: 10px;
+    justify-items: flex-start;
+    padding: 30px;
+    font-family: 'Comic Neue', cursive;
     border: #ff7d00 solid 3px;
     width: 760px;
-    height: 100%;
-    color:  #001524;
+    height: auto;
+    color: #001524;
     background-color: #ffecd1;
     border-radius: 20px;
     font-size: 18px;
 }
-span{
+
+span {
     font-weight: bold;
 }
-button{
+
+button {
     font-family: 'Comic Neue', cursive;
     width: 220px;
     height: 40px;
@@ -32,13 +37,17 @@ button{
     border: #15616d solid 2.5px;
     border-radius: 10px;
     background-color: #ff7d00;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
 }
-button:active{
+
+button:active {
     transform: scale(0.80);
-    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
 }
-button:hover{
-    transform: scale(1.05); 
-    box-shadow: 0 8px 0 rgba(0,0,0,0.3); 
-    filter: brightness(1.2); 
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 0 rgba(0, 0, 0, 0.3);
+    filter: brightness(1.2);
 }

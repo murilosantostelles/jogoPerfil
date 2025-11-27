@@ -13,7 +13,6 @@ const inputResposta = document.querySelector(".campo-de-resposta");
 const btnEnviar = document.querySelector(".enviar");
 const btnPular = document.querySelector(".btn-pular");
 const audioFundo = document.getElementById("musicaFundo");
-
 const somClique = new Audio("efeitos/button_song.wav");
 const somAcerto = new Audio("efeitos/check_song.wav");
 const somErro = new Audio("efeitos/fail_tick.wav");
