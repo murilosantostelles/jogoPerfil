@@ -51,8 +51,10 @@ fetch("palavras.json")
 
 
 function iniciarNovaRodada() {
+    if (bancoDePalavras.length === 0) return;
+
     const indice = Math.floor(Math.random() * bancoDePalavras.length);
-    cartaAtual = bancoDePalavras[indice];
+    cartaAtual = bancoDePalavras.splice(indice, 1)[0];
 
     pontosRodada = 100;
     dicasUsadas = 0;

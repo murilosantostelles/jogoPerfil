@@ -2,7 +2,7 @@
     {
         "id": 1,
         "palavra": "Guarda-chuva",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Fui inventado na China antiga.",
             "Minha estrutura básica mudou muito pouco ao longo dos séculos.",
@@ -19,7 +19,7 @@
     {
         "id": 2,
         "palavra": "Micro-ondas",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Fui descoberto acidentalmente durante testes com radares.",
             "Funciono usando radiação não ionizante.",
@@ -36,7 +36,7 @@
     {
         "id": 3,
         "palavra": "Brasil",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou o quinto maior país do mundo.",
             "Sou o único país das Américas que fala português.",
@@ -53,7 +53,7 @@
     {
         "id": 4,
         "palavra": "Pelé",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Meu nome de batismo é Edson Arantes.",
             "Nasci em Três Corações.",
@@ -70,7 +70,7 @@
     {
         "id": 5,
         "palavra": "Violão",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou descendente do alaúde.",
             "Tenho um corpo oco e uma caixa de ressonância.",
@@ -342,7 +342,7 @@
     {
         "id": 21,
         "palavra": "Caneta",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para escrever.",
             "Carrego tinta dentro de mim.",
@@ -359,7 +359,7 @@
     {
         "id": 22,
         "palavra": "Tesoura",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para cortar.",
             "Tenho duas lâminas.",
@@ -376,7 +376,7 @@
     {
         "id": 23,
         "palavra": "Fogão",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para cozinhar alimentos.",
             "Funciono com gás ou eletricidade.",
@@ -393,7 +393,7 @@
     {
         "id": 24,
         "palavra": "Relógio",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para ver as horas.",
             "Posso ser de pulso ou de parede.",
@@ -410,7 +410,7 @@
     {
         "id": 25,
         "palavra": "Travesseiro",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para dormir.",
             "Dou suporte à cabeça.",
@@ -427,7 +427,7 @@
     {
         "id": 26,
         "palavra": "Bicicleta",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para locomoção.",
             "Tenho duas rodas.",
@@ -444,7 +444,7 @@
     {
         "id": 27,
         "palavra": "Churrasqueira",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para assar carnes.",
             "Funciono com carvão, gás ou eletricidade.",
@@ -461,7 +461,7 @@
     {
         "id": 28,
         "palavra": "Garrafa",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Guardo líquidos no meu interior.",
             "Posso ser de plástico, vidro ou metal.",
@@ -478,7 +478,7 @@
     {
         "id": 29,
         "palavra": "Chave",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para abrir portas.",
             "Tenho formato específico para uma fechadura.",
@@ -495,7 +495,7 @@
     {
         "id": 30,
         "palavra": "Lápis",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para escrever.",
             "Tenho grafite dentro de mim.",
@@ -512,7 +512,7 @@
     {
         "id": 31,
         "palavra": "Deserto do Saara",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um dos lugares mais quentes do mundo.",
             "Sou o maior deserto quente do planeta.",
@@ -529,7 +529,7 @@
     {
         "id": 32,
         "palavra": "Portugal",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Fico na Europa.",
             "Minha língua influenciou o Brasil.",
@@ -546,7 +546,7 @@
     {
         "id": 33,
         "palavra": "China",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um dos países mais antigos do mundo.",
             "Tenho a maior população do planeta.",
@@ -563,7 +563,7 @@
     {
         "id": 34,
         "palavra": "Austrália",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país e um continente ao mesmo tempo.",
             "Fico cercado pelo oceano.",
@@ -580,7 +580,7 @@
     {
         "id": 35,
         "palavra": "Ayrton Senna",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Fiquei muito conhecido por minha velocidade.",
             "Sou um dos maiores nomes do automobilismo.",
@@ -597,7 +597,7 @@
     {
         "id": 36,
         "palavra": "Lionel Messi",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um dos maiores jogadores de futebol.",
             "Nasci na América do Sul.",
@@ -614,7 +614,7 @@
     {
         "id": 37,
         "palavra": "Rio Grande do Sul",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Fico no extremo sul do Brasil.",
             "Sou conhecido pelo frio intenso.",
@@ -631,7 +631,7 @@
     {
         "id": 38,
         "palavra": "Notebook",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para estudar e trabalhar.",
             "Sou portátil e posso ser levado para qualquer lugar.",
@@ -648,7 +648,7 @@
     {
         "id": 39,
         "palavra": "Rio de Janeiro",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma cidade famosa mundialmente.",
             "Tenho belas praias.",
@@ -665,7 +665,7 @@
     {
         "id": 40,
         "palavra": "Frida Kahlo",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma artista famosa.",
             "Nasci na América do Norte.",
@@ -682,7 +682,7 @@
     {
         "id": 41,
         "palavra": "Sergipe",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou o menor estado do Brasil.",
             "Fico no Nordeste.",
@@ -699,7 +699,7 @@
     {
         "id": 42,
         "palavra": "J.K. Rowling",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma escritora muito famosa.",
             "Minhas obras viraram filmes de sucesso.",
@@ -716,7 +716,7 @@
     {
         "id": 43,
         "palavra": "Escada",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para alcançar lugares altos.",
             "Posso ser feita de madeira, alumínio ou ferro.",
@@ -733,7 +733,7 @@
     {
         "id": 44,
         "palavra": "Carmen Miranda",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma artista brasileira conhecida mundialmente.",
             "Fiquei famosa nos Estados Unidos.",
@@ -750,7 +750,7 @@
     {
         "id": 45,
         "palavra": "Machado de Assis",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um grande escritor brasileiro.",
             "Nasci no século XIX.",
@@ -767,7 +767,7 @@
     {
         "id": 46,
         "palavra": "Salvador",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital brasileira.",
             "Sou muito conhecida pelo meu carnaval.",
@@ -784,7 +784,7 @@
     {
         "id": 47,
         "palavra": "Televisão",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou encontrada na maioria das casas.",
             "Transmito imagens e sons.",
@@ -801,7 +801,7 @@
     {
         "id": 48,
         "palavra": "Anitta",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma artista brasileira.",
             "Canto música pop e funk.",
@@ -818,7 +818,7 @@
     {
         "id": 49,
         "palavra": "Pernambuco",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um estado brasileiro.",
             "Tenho uma capital famosa.",
@@ -835,7 +835,7 @@
     {
         "id": 50,
         "palavra": "Martelo",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado em construções.",
             "Sou segurado com uma mão.",
@@ -852,7 +852,7 @@
     {
         "id": 51,
         "palavra": "Shakespeare",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um importante dramaturgo.",
             "Nasci na Inglaterra.",
@@ -869,7 +869,7 @@
     {
         "id": 52,
         "palavra": "Egito",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Tenho uma história muito antiga.",
@@ -886,7 +886,7 @@
     {
         "id": 53,
         "palavra": "Bola",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada em vários esportes.",
             "Sou redonda.",
@@ -903,7 +903,7 @@
     {
         "id": 54,
         "palavra": "Santos Dumont",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um brasileiro famoso.",
             "Fui pioneiro em uma área tecnológica.",
@@ -920,7 +920,7 @@
     {
         "id": 55,
         "palavra": "Minas Gerais",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um estado brasileiro.",
             "Minha culinária é famosa.",
@@ -937,7 +937,7 @@
     {
         "id": 56,
         "palavra": "Óculos",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado no rosto.",
             "Ajudo na visão.",
@@ -954,7 +954,7 @@
     {
         "id": 57,
         "palavra": "George Washington",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma pessoa histórica.",
             "Vivi nos Estados Unidos.",
@@ -971,7 +971,7 @@
     {
         "id": 58,
         "palavra": "Coreia do Sul",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país asiático.",
             "Sou muito moderno.",
@@ -988,7 +988,7 @@
     {
         "id": 59,
         "palavra": "Cadeira",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para sentar.",
             "Estou presente em casas e escritórios.",
@@ -1005,7 +1005,7 @@
     {
         "id": 60,
         "palavra": "Van Gogh",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um artista.",
             "Nasci na Europa.",
@@ -1022,7 +1022,7 @@
     {
         "id": 61,
         "palavra": "Canadá",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Tenho clima frio.",
@@ -1039,7 +1039,7 @@
     {
         "id": 62,
         "palavra": "Faca",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada na cozinha.",
             "Tenho uma lâmina.",
@@ -1056,7 +1056,7 @@
     {
         "id": 63,
         "palavra": "Leonardo da Vinci",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um gênio renascentista.",
             "Fui pintor, inventor e estudioso.",
@@ -1073,7 +1073,7 @@
     {
         "id": 64,
         "palavra": "Argentina",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país sul-americano.",
             "Sou vizinha do Brasil.",
@@ -1090,7 +1090,7 @@
     {
         "id": 65,
         "palavra": "Maria Bethânia",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma cantora brasileira.",
             "Nasci na Bahia.",
@@ -1107,7 +1107,7 @@
     {
         "id": 66,
         "palavra": "Fernando de Noronha",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um arquipélago brasileiro.",
             "Fico no nordeste.",
@@ -1124,7 +1124,7 @@
     {
         "id": 67,
         "palavra": "Violino",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento musical.",
             "Tenho quatro cordas.",
@@ -1141,7 +1141,7 @@
     {
         "id": 68,
         "palavra": "Elon Musk",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um empresário famoso.",
             "Nasci na África.",
@@ -1158,7 +1158,7 @@
     {
         "id": 69,
         "palavra": "Recife",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital brasileira.",
             "Fico no nordeste.",
@@ -1175,7 +1175,7 @@
     {
         "id": 70,
         "palavra": "Galileu Galilei",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um cientista famoso.",
             "Vivi na Europa.",
@@ -1192,7 +1192,7 @@
     {
         "id": 71,
         "palavra": "Bahia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um estado brasileiro.",
             "Estou no nordeste.",
@@ -1209,7 +1209,7 @@
     {
         "id": 72,
         "palavra": "Panela de Pressão",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada na cozinha.",
             "Cozinho alimentos mais rápido.",
@@ -1226,7 +1226,7 @@
     {
         "id": 73,
         "palavra": "Marilyn Monroe",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma atriz famosa.",
             "Vivi nos Estados Unidos.",
@@ -1243,7 +1243,7 @@
     {
         "id": 74,
         "palavra": "Bahamas",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país insular.",
             "Estou no Caribe.",
@@ -1260,7 +1260,7 @@
     {
         "id": 75,
         "palavra": "Frigideira",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada na cozinha.",
             "Sirvo para fritar alimentos.",
@@ -1277,7 +1277,7 @@
     {
         "id": 76,
         "palavra": "Pablo Picasso",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um artista europeu.",
             "Nasci na Espanha.",
@@ -1294,7 +1294,7 @@
     {
         "id": 77,
         "palavra": "Dubai",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma cidade famosa.",
             "Fico no Oriente Médio.",
@@ -1311,7 +1311,7 @@
     {
         "id": 78,
         "palavra": "Trator",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um veículo.",
             "Sou usado na agricultura.",
@@ -1328,7 +1328,7 @@
     {
         "id": 79,
         "palavra": "Nelson Mandela",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um líder mundial.",
             "Nasci na África.",
@@ -1345,7 +1345,7 @@
     {
         "id": 80,
         "palavra": "Atenas",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma cidade histórica.",
             "Estou na Europa.",
@@ -1362,7 +1362,7 @@
     {
         "id": 81,
         "palavra": "Teclado",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado no dia a dia.",
             "Tenho várias teclas.",
@@ -1379,7 +1379,7 @@
     {
         "id": 82,
         "palavra": "Neil Armstrong",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um astronauta.",
             "Sou dos Estados Unidos.",
@@ -1396,7 +1396,7 @@
     {
         "id": 83,
         "palavra": "Chile",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Estou na América do Sul.",
@@ -1413,7 +1413,7 @@
     {
         "id": 84,
         "palavra": "Liquidificador",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado na cozinha.",
             "Tenho lâminas.",
@@ -1430,7 +1430,7 @@
     {
         "id": 85,
         "palavra": "Marie Curie",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cientista.",
             "Ganhei dois prêmios Nobel.",
@@ -1447,7 +1447,7 @@
     {
         "id": 86,
         "palavra": "Noruega",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país europeu.",
             "Tenho clima frio.",
@@ -1464,7 +1464,7 @@
     {
         "id": 87,
         "palavra": "Guarda-roupa",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou encontrado em quartos.",
             "Sirvo para guardar coisas.",
@@ -1479,26 +1479,9 @@
         ]
     },
     {
-        "id": 88,
-        "palavra": "Pipoca",
-        "tipo": "comida",
-        "dicas": [
-            "Sou um alimento.",
-            "Sou muito consumida no cinema.",
-            "Sou feita com milho.",
-            "Estouro quando aquecida.",
-            "Posso ser doce ou salgada.",
-            "Sou leve e crocante.",
-            "Acompanho filmes e séries.",
-            "Sou rápida de fazer.",
-            "Sou comum em festas juninas.",
-            "Uma panela especial pode me preparar."
-        ]
-    },
-    {
         "id": 89,
         "palavra": "Barack Obama",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Fui presidente.",
             "Nasci nos Estados Unidos.",
@@ -1515,7 +1498,7 @@
     {
         "id": 90,
         "palavra": "Coliseu",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma construção antiga.",
             "Fico na Europa.",
@@ -1532,7 +1515,7 @@
     {
         "id": 91,
         "palavra": "Nevada",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um estado.",
             "Fico nos Estados Unidos.",
@@ -1549,7 +1532,7 @@
     {
         "id": 92,
         "palavra": "Monte Everest",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou o ponto mais alto da Terra.",
             "Situo-me na cordilheira do Himalaia.",
@@ -1566,7 +1549,7 @@
     {
         "id": 93,
         "palavra": "Shakira",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma cantora internacional.",
             "Nasci na Colômbia.",
@@ -1583,7 +1566,7 @@
     {
         "id": 94,
         "palavra": "Copo",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para beber líquidos.",
             "Posso ser de vidro, plástico ou metal.",
@@ -1600,7 +1583,7 @@
     {
         "id": 95,
         "palavra": "Bélgica",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Fico na Europa.",
             "Sou famoso por chocolates.",
@@ -1617,7 +1600,7 @@
     {
         "id": 96,
         "palavra": "Charles Darwin",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um cientista britânico.",
             "Fiquei conhecido pela teoria da evolução.",
@@ -1634,7 +1617,7 @@
     {
         "id": 97,
         "palavra": "Chinelo",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado nos pés.",
             "Sou comum no calor.",
@@ -1651,7 +1634,7 @@
     {
         "id": 98,
         "palavra": "Reino Unido",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou formado por quatro nações.",
             "Minha capital é muito famosa.",
@@ -1668,7 +1651,7 @@
     {
         "id": 99,
         "palavra": "Hércules",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou figura da mitologia.",
             "Sou conhecido pela força extrema.",
@@ -1685,7 +1668,7 @@
     {
         "id": 100,
         "palavra": "Vinícius",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um dos criadores do Jogo Perfil",
             "Meu nome começa com a letra V",
@@ -1702,7 +1685,7 @@
     {
         "id": 101,
         "palavra": "Tomate",
-        "tipo": "comida",
+        "tipo": "Comida",
         "dicas": [
             "Sou um alimento.",
             "Minha cor costuma ser vermelha.",
@@ -1719,7 +1702,7 @@
     {
         "id": 102,
         "palavra": "Cacto",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou uma planta.",
             "Vivo bem em lugares secos.",
@@ -1736,7 +1719,7 @@
     {
         "id": 103,
         "palavra": "Líbano",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país do Oriente Médio.",
             "Minha capital tem o mesmo nome de um famoso hotel.",
@@ -1753,7 +1736,7 @@
     {
         "id": 104,
         "palavra": "Toalha",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada no banheiro.",
             "Sirvo para secar.",
@@ -1770,7 +1753,7 @@
     {
         "id": 106,
         "palavra": "Mahatma Gandhi",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um líder político e espiritual.",
             "Defendi a resistência pacífica.",
@@ -1787,7 +1770,7 @@
     {
         "id": 107,
         "palavra": "Batedeira",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um eletrodoméstico de cozinha.",
             "Sou usada em receitas.",
@@ -1804,7 +1787,7 @@
     {
         "id": 108,
         "palavra": "Serra da Mantiqueira",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma cadeia montanhosa.",
             "Estou localizada no Sudeste do Brasil.",
@@ -1821,7 +1804,7 @@
     {
         "id": 110,
         "palavra": "Machu Picchu",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um sítio histórico.",
             "Fico na América do Sul.",
@@ -1838,7 +1821,7 @@
     {
         "id": 111,
         "palavra": "Selena Gomez",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma artista internacional.",
             "Comecei carreira ainda criança.",
@@ -1855,7 +1838,7 @@
     {
         "id": 112,
         "palavra": "Estetoscópio",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento profissional.",
             "Sou muito usado na área da saúde.",
@@ -1872,7 +1855,7 @@
     {
         "id": 113,
         "palavra": "México",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país da América do Norte.",
             "Minha culinária é muito famosa.",
@@ -1889,7 +1872,7 @@
     {
         "id": 115,
         "palavra": "Beethoven",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um músico clássico.",
             "Nasci na Alemanha.",
@@ -1906,7 +1889,7 @@
     {
         "id": 117,
         "palavra": "Finlândia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país do norte da Europa.",
             "Sou conhecido pela educação de qualidade.",
@@ -1923,7 +1906,7 @@
     {
         "id": 118,
         "palavra": "Vassoura",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada na limpeza.",
             "Tenho cabo longo.",
@@ -1940,7 +1923,7 @@
     {
         "id": 120,
         "palavra": "Tubarão",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um animal marinho.",
             "Tenho várias fileiras de dentes.",
@@ -1957,7 +1940,7 @@
     {
         "id": 121,
         "palavra": "Saxofone",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento musical.",
             "Sou feito de metal.",
@@ -1974,7 +1957,7 @@
     {
         "id": 122,
         "palavra": "Croácia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país europeu.",
             "Tenho litoral no Mar Adriático.",
@@ -1991,7 +1974,7 @@
     {
         "id": 123,
         "palavra": "Lanterna",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sirvo para iluminar.",
             "Sou usada no escuro.",
@@ -2008,7 +1991,7 @@
     {
         "id": 124,
         "palavra": "Borboleta",
-        "tipo": "animal",
+        "tipo": "Animal",
         "dicas": [
             "Sou um inseto.",
             "Tenho asas coloridas.",
@@ -2025,7 +2008,7 @@
     {
         "id": 125,
         "palavra": "Patins",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para deslizar.",
             "Possuo rodas.",
@@ -2042,7 +2025,7 @@
     {
         "id": 126,
         "palavra": "Vulcão",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma formação geológica.",
             "Posso entrar em erupção.",
@@ -2057,43 +2040,9 @@
         ]
     },
     {
-        "id": 127,
-        "palavra": "Gorila",
-        "tipo": "ser vivo",
-        "dicas": [
-            "Sou um primata.",
-            "Sou muito forte.",
-            "Vivo em grupos.",
-            "Posso fazer sons altos.",
-            "Tenho corpo robusto.",
-            "Sou encontrado na África.",
-            "Sou herbívoro.",
-            "Minha aparência assusta alguns.",
-            "Caminho apoiando as mãos no chão.",
-            "Sou um dos maiores primatas do mundo."
-        ]
-    },
-    {
-        "id": 128,
-        "palavra": "Abacaxi",
-        "tipo": "comida",
-        "dicas": [
-            "Sou uma fruta tropical.",
-            "Tenho casca áspera.",
-            "Minha polpa é amarelada.",
-            "Sou doce e ácido ao mesmo tempo.",
-            "Uso coroa na parte de cima.",
-            "Sou usado em sucos e sobremesas.",
-            "Tenho formato ovalado.",
-            "Meu cheiro é marcante.",
-            "Fico melhor gelado.",
-            "Meu nome começa com A."
-        ]
-    },
-    {
         "id": 129,
         "palavra": "Harpa",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento musical.",
             "Tenho muitas cordas.",
@@ -2108,26 +2057,9 @@
         ]
     },
     {
-        "id": 130,
-        "palavra": "Esquilo",
-        "tipo": "animal",
-        "dicas": [
-            "Sou pequeno e ágil.",
-            "Gosto de subir em árvores.",
-            "Como nozes e sementes.",
-            "Tenho cauda bem felpuda.",
-            "Sou comum em parques.",
-            "Guardo comida para o inverno.",
-            "Sou muito rápido.",
-            "Tenho dentes fortes.",
-            "Sou encontrado em vários países.",
-            "Apareço em muitos desenhos animados."
-        ]
-    },
-    {
         "id": 131,
         "palavra": "Dinamarca",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país europeu.",
             "Fiz parte dos vikings.",
@@ -2144,7 +2076,7 @@
     {
         "id": 132,
         "palavra": "Trompete",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento musical.",
             "Tenho pistões.",
@@ -2161,7 +2093,7 @@
     {
         "id": 133,
         "palavra": "Camaleão",
-        "tipo": "animal",
+        "tipo": "Animal",
         "dicas": [
             "Sou um réptil.",
             "Troco de cor.",
@@ -2178,7 +2110,7 @@
     {
         "id": 134,
         "palavra": "Isaac Newton",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um cientista muito famoso.",
             "Nasci no século XVII.",
@@ -2195,7 +2127,7 @@
     {
         "id": 135,
         "palavra": "Mozart",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um grande compositor.",
             "Nasci na Áustria no século XVIII.",
@@ -2212,7 +2144,7 @@
     {
         "id": 136,
         "palavra": "Stephen Hawking",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou físico teórico.",
             "Estudei buracos negros.",
@@ -2229,7 +2161,7 @@
     {
         "id": 138,
         "palavra": "Stephen King",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou escritor.",
             "Fico conhecido por histórias de terror.",
@@ -2246,7 +2178,7 @@
     {
         "id": 139,
         "palavra": "Confúcio",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um filósofo.",
             "Nasci na Antiguidade.",
@@ -2263,7 +2195,7 @@
     {
         "id": 141,
         "palavra": "Usain Bolt",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atleta.",
             "Especialista em corrida.",
@@ -2280,7 +2212,7 @@
     {
         "id": 142,
         "palavra": "Morgan Freeman",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Tenho uma voz muito marcante.",
@@ -2297,7 +2229,7 @@
     {
         "id": 143,
         "palavra": "Amelia Earhart",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou pioneira.",
             "Fui uma das primeiras mulheres na aviação.",
@@ -2314,7 +2246,7 @@
     {
         "id": 144,
         "palavra": "Bruce Lee",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator e lutador.",
             "Popularizei as artes marciais no cinema.",
@@ -2331,7 +2263,7 @@
     {
         "id": 147,
         "palavra": "Nikola Tesla",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou inventor.",
             "Trabalhei com eletricidade.",
@@ -2348,7 +2280,7 @@
     {
         "id": 148,
         "palavra": "Tolkien",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou escritor.",
             "Criei mundos de fantasia complexos.",
@@ -2365,7 +2297,7 @@
     {
         "id": 149,
         "palavra": "Maria Antonieta",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Fui uma figura importante da França.",
             "Meu nome está ligado à monarquia.",
@@ -2382,7 +2314,7 @@
     {
         "id": 151,
         "palavra": "Frida Kahlo",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou pintora.",
             "Minha arte é marcada por símbolos fortes.",
@@ -2399,7 +2331,7 @@
     {
         "id": 152,
         "palavra": "Freud",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Fui um pensador influente.",
             "Criei uma nova área de estudo.",
@@ -2416,7 +2348,7 @@
     {
         "id": 155,
         "palavra": "Tarantino",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou diretor de cinema.",
             "Meus filmes têm diálogos marcantes.",
@@ -2433,7 +2365,7 @@
     {
         "id": 157,
         "palavra": "Agatha Christie",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou escritora.",
             "Fiquei famosa por romances de mistério.",
@@ -2450,7 +2382,7 @@
     {
         "id": 158,
         "palavra": "Islândia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Tenho muitas paisagens naturais.",
@@ -2467,7 +2399,7 @@
     {
         "id": 159,
         "palavra": "Nigéria",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país africano.",
             "Tenho população muito numerosa.",
@@ -2484,7 +2416,7 @@
     {
         "id": 160,
         "palavra": "Havaí",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou formado por ilhas.",
             "Tenho clima tropical.",
@@ -2501,7 +2433,7 @@
     {
         "id": 161,
         "palavra": "Telescópio",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para observar.",
             "Vejo coisas distantes.",
@@ -2518,7 +2450,7 @@
     {
         "id": 162,
         "palavra": "Capacete",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou uma proteção.",
             "Sou usado na cabeça.",
@@ -2535,7 +2467,7 @@
     {
         "id": 163,
         "palavra": "Agenda",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada no dia a dia.",
             "Ajudo a organizar compromissos.",
@@ -2552,7 +2484,7 @@
     {
         "id": 164,
         "palavra": "Bússola",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada há séculos para navegação.",
             "Funciono apontando para uma direção específica.",
@@ -2569,7 +2501,7 @@
     {
         "id": 165,
         "palavra": "Serra do Mar",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma longa cadeia montanhosa.",
             "Estou localizada no litoral de um país sul-americano.",
@@ -2586,7 +2518,7 @@
     {
         "id": 167,
         "palavra": "Viena",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital europeia.",
             "Tenho arquitetura elegante e histórica.",
@@ -2603,7 +2535,7 @@
     {
         "id": 168,
         "palavra": "Farol",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou encontrado próximo ao mar.",
             "Minha luz é visível à longa distância.",
@@ -2620,7 +2552,7 @@
     {
         "id": 169,
         "palavra": "Franz Kafka",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Fui escritor.",
             "Minha obra tem um estilo único e perturbador.",
@@ -2637,7 +2569,7 @@
     {
         "id": 170,
         "palavra": "Capadócia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma região turística muito famosa.",
             "Tenho formações rochosas incomuns.",
@@ -2654,7 +2586,7 @@
     {
         "id": 171,
         "palavra": "Sino",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Produzo som ao ser movimentado.",
             "Sou usado em cerimônias.",
@@ -2671,7 +2603,7 @@
     {
         "id": 172,
         "palavra": "Marrocos",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Tenho cidades com mercados tradicionais.",
@@ -2688,7 +2620,7 @@
     {
         "id": 174,
         "palavra": "Globo",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou educativo.",
             "Mostro fronteiras e continentes.",
@@ -2705,7 +2637,7 @@
     {
         "id": 177,
         "palavra": "Pente",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado no cotidiano.",
             "Sirvo para organizar algo.",
@@ -2722,7 +2654,7 @@
     {
         "id": 180,
         "palavra": "Monte Fuji",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma montanha muito fotografada.",
             "Sou um símbolo cultural.",
@@ -2739,7 +2671,7 @@
     {
         "id": 181,
         "palavra": "Clarice Lispector",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou uma escritora muito estudada.",
             "Minha obra explora emoções profundas.",
@@ -2756,7 +2688,7 @@
     {
         "id": 183,
         "palavra": "Violoncelo",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um instrumento musical.",
             "Tenho corpo grande.",
@@ -2773,7 +2705,7 @@
     {
         "id": 185,
         "palavra": "Seul",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital moderna.",
             "Tenho distritos tecnológicos.",
@@ -2790,7 +2722,7 @@
     {
         "id": 186,
         "palavra": "Âncora",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou fundamental para embarcações.",
             "Uso peso para fixação.",
@@ -2807,7 +2739,7 @@
     {
         "id": 187,
         "palavra": "Jordânia",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Tenho desertos famosos.",
@@ -2824,7 +2756,7 @@
     {
         "id": 189,
         "palavra": "Corda",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para prender ou segurar coisas.",
             "Posso ser grossa ou fina.",
@@ -2841,7 +2773,7 @@
     {
         "id": 191,
         "palavra": "Chaleira",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada na cozinha.",
             "Sirvo para aquecer líquidos.",
@@ -2858,7 +2790,7 @@
     {
         "id": 193,
         "palavra": "Santiago",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Fico rodeada por montanhas.",
@@ -2875,7 +2807,7 @@
     {
         "id": 194,
         "palavra": "Robert Downey Jr.",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Meu sobrenome começa com D.",
@@ -2892,7 +2824,7 @@
     {
         "id": 195,
         "palavra": "Lady Gaga",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantora.",
             "Tenho um estilo artístico único.",
@@ -2909,7 +2841,7 @@
     {
         "id": 196,
         "palavra": "Tom Hanks",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Atuo há muitas décadas.",
@@ -2926,7 +2858,7 @@
     {
         "id": 197,
         "palavra": "Zendaya",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atriz.",
             "Comecei em produções juvenis.",
@@ -2943,7 +2875,7 @@
     {
         "id": 198,
         "palavra": "Keanu Reeves",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Protagonizei filmes de ação icônicos.",
@@ -2960,7 +2892,7 @@
     {
         "id": 199,
         "palavra": "Adele",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantora.",
             "Tenho voz poderosa.",
@@ -2977,7 +2909,7 @@
     {
         "id": 200,
         "palavra": "Murilo",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou um dos criadores do Jogo Perfil",
             "Meu nome começa com a letra M",
@@ -2994,7 +2926,7 @@
     {
         "id": 201,
         "palavra": "Dwayne Johnson",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Meu sobrenome começa com J.",
@@ -3011,7 +2943,7 @@
     {
         "id": 202,
         "palavra": "Anne Hathaway",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atriz.",
             "Participei de filmes de fantasia e drama.",
@@ -3028,7 +2960,7 @@
     {
         "id": 203,
         "palavra": "Ed Sheeran",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantor.",
             "Escrevo minhas próprias músicas.",
@@ -3045,7 +2977,7 @@
     {
         "id": 203,
         "palavra": "Copo Térmico",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um recipiente.",
             "Mantenho líquidos quentes ou frios.",
@@ -3062,7 +2994,7 @@
     {
         "id": 204,
         "palavra": "Estocolmo",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Tenho clima frio.",
@@ -3079,7 +3011,7 @@
     {
         "id": 205,
         "palavra": "Harrison Ford",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Protagonizei filmes de aventura.",
@@ -3096,7 +3028,7 @@
     {
         "id": 206,
         "palavra": "Caneca",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para beber.",
             "Costumo ter alça.",
@@ -3113,7 +3045,7 @@
     {
         "id": 207,
         "palavra": "Praga",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Tenho arquitetura histórica.",
@@ -3130,7 +3062,7 @@
     {
         "id": 208,
         "palavra": "Jennifer Lopez",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantora.",
             "Também sou atriz.",
@@ -3147,7 +3079,7 @@
     {
         "id": 209,
         "palavra": "Aspirador de Pó",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para limpeza.",
             "Funciono com motor.",
@@ -3164,7 +3096,7 @@
     {
         "id": 210,
         "palavra": "Monte Sinai",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um local histórico.",
             "Tenho significado religioso.",
@@ -3181,7 +3113,7 @@
     {
         "id": 211,
         "palavra": "Jennifer Aniston",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atriz.",
             "Fiquei mundialmente conhecida em uma série famosa.",
@@ -3198,7 +3130,7 @@
     {
         "id": 212,
         "palavra": "Panela",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usada para cozinhar.",
             "Sou muito comum em casas.",
@@ -3215,7 +3147,7 @@
     {
         "id": 213,
         "palavra": "Catar",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país.",
             "Fico no Oriente Médio.",
@@ -3232,7 +3164,7 @@
     {
         "id": 215,
         "palavra": "Cofre",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para guardar coisas importantes.",
             "Sou resistente.",
@@ -3249,7 +3181,7 @@
     {
         "id": 216,
         "palavra": "Oslo",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Fico ao norte da Europa.",
@@ -3266,7 +3198,7 @@
     {
         "id": 217,
         "palavra": "Sandra Bullock",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atriz.",
             "Atuei em filmes de comédia e drama.",
@@ -3283,7 +3215,7 @@
     {
         "id": 218,
         "palavra": "Michael Jackson",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantor.",
             "Fui um dos artistas mais influentes da história.",
@@ -3300,7 +3232,7 @@
     {
         "id": 219,
         "palavra": "Edimburgo",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Tenho um castelo muito famoso.",
@@ -3317,7 +3249,7 @@
     {
         "id": 220,
         "palavra": "Sofá",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para sentar.",
             "Fico geralmente na sala.",
@@ -3334,7 +3266,7 @@
     {
         "id": 218,
         "palavra": "Michael Jackson",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou cantor.",
             "Fui um dos artistas mais influentes da história.",
@@ -3351,7 +3283,7 @@
     {
         "id": 219,
         "palavra": "Edimburgo",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma capital.",
             "Tenho um castelo muito famoso.",
@@ -3368,7 +3300,7 @@
     {
         "id": 220,
         "palavra": "Sofá",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou usado para sentar.",
             "Fico geralmente na sala.",
@@ -3385,7 +3317,7 @@
     {
         "id": 221,
         "palavra": "Tom Hanks",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou ator.",
             "Ganhei prêmios importantes.",
@@ -3402,7 +3334,7 @@
     {
         "id": 222,
         "palavra": "Luxemburgo",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou um país pequeno.",
             "Fico na Europa.",
@@ -3419,7 +3351,7 @@
     {
         "id": 223,
         "palavra": "Colar",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Sou um acessório.",
             "Sou usado no pescoço.",
@@ -3436,7 +3368,7 @@
     {
         "id": 224,
         "palavra": "Meryl Streep",
-        "tipo": "pessoa",
+        "tipo": "Pessoa",
         "dicas": [
             "Sou atriz.",
             "Sou considerada uma das melhores do mundo.",
@@ -3453,7 +3385,7 @@
     {
         "id": 225,
         "palavra": "Istambul",
-        "tipo": "lugar",
+        "tipo": "Lugar",
         "dicas": [
             "Sou uma grande cidade.",
             "Fico em dois continentes.",
@@ -3470,7 +3402,7 @@
     {
         "id": 226,
         "palavra": "Tapete",
-        "tipo": "objeto",
+        "tipo": "Objeto",
         "dicas": [
             "Fico no chão.",
             "Sou usado na decoração.",
