@@ -222,7 +222,11 @@ if (btnPular) {
             btnPular.innerText = `Pular (${pulosRestantes}/3)`;
             iniciarNovaRodada();
         } else {
-            alert("Você não tem mais pulos!");
+            tentarTocar(somErro);
+            btnPular.classList.add("sem-pulos-animacao");
+            setTimeout(() => {
+                btnPular.classList.remove("sem-pulos-animacao");
+            }, 500);
         }
     });
 }
