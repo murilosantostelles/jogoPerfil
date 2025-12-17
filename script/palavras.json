@@ -1666,23 +1666,6 @@
         ]
     },
     {
-        "id": 101,
-        "palavra": "Tomate",
-        "tipo": "Comida",
-        "dicas": [
-            "Sou um alimento.",
-            "Minha cor costuma ser vermelha.",
-            "Sou usado em saladas.",
-            "Também sou ingrediente de molhos.",
-            "Cresço em hortas.",
-            "Sou rico em licopeno.",
-            "Sou suculento.",
-            "Sou considerado fruta por botânicos.",
-            "Faço parte de muitas culinárias.",
-            "Sou barato e fácil de encontrar."
-        ]
-    },
-    {
         "id": 102,
         "palavra": "Cacto",
         "tipo": "Objeto",
@@ -1972,23 +1955,6 @@
         ]
     },
     {
-        "id": 124,
-        "palavra": "Borboleta",
-        "tipo": "Animal",
-        "dicas": [
-            "Sou um inseto.",
-            "Tenho asas coloridas.",
-            "Passo pela metamorfose.",
-            "Sou leve e delicada.",
-            "Bato as asas rapidamente.",
-            "Sou símbolo de transformação.",
-            "Gosto de flores.",
-            "Muitos tiram fotos minhas.",
-            "Sou encontrada em vários lugares do mundo.",
-            "Minha fase inicial é uma lagarta."
-        ]
-    },
-    {
         "id": 125,
         "palavra": "Patins",
         "tipo": "Objeto",
@@ -2071,23 +2037,6 @@
             "Sou muito antigo.",
             "Sou usado em fanfarras.",
             "Meu nome termina com E."
-        ]
-    },
-    {
-        "id": 133,
-        "palavra": "Camaleão",
-        "tipo": "Animal",
-        "dicas": [
-            "Sou um réptil.",
-            "Troco de cor.",
-            "Tenho língua comprida.",
-            "Me movimento devagar.",
-            "Tenho olhos que se movem separadamente.",
-            "Vivo em florestas.",
-            "Sou pequeno.",
-            "Apareço em muitos documentários.",
-            "Sou conhecido por me camuflar.",
-            "Meu nome começa com C."
         ]
     },
     {
