@@ -4605,5 +4605,685 @@
             "Sedi as Olimpíadas de 2012.",
             "Tenho cabines telefônicas vermelhas."
         ]
+    },
+    {
+        "id": 297,
+        "palavra": "Espelho",
+        "tipo": "Objeto",
+        "dicas": [
+            "Reflito a luz.",
+            "Dizem que quebrar-me dá 7 anos de azar.",
+            "Sou usado para verificar a aparência.",
+            "Estou presente em banheiros e quartos.",
+            "Carros possuem tipos retrovisores de mim.",
+            "Sou feito de vidro com uma camada metálica.",
+            "Apareço na história da Branca de Neve.",
+            "Vampiros não aparecem em mim (segundo a lenda).",
+            "Inverto a imagem da esquerda para a direita.",
+            "Posso ser côncavo, convexo ou plano."
+        ]
+    },
+    {
+        "id": 298,
+        "palavra": "Guarda-sol",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou muito usado na praia.",
+            "Protejo contra raios UV.",
+            "Sou maior que meu 'irmão' que protege da chuva.",
+            "Geralmente sou fincado na areia ou em uma base.",
+            "Faço sombra.",
+            "Tenho tecido colorido e estrutura de metal ou plástico.",
+            "Sou difícil de segurar quando venta muito.",
+            "Fecho e abro com um sistema de hastes.",
+            "Sou um item indispensável no verão.",
+            "Posso ser visto na beira de piscinas."
+        ]
+    },
+    {
+        "id": 299,
+        "palavra": "Mochila",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou carregada nas costas.",
+            "Tenho alças ajustáveis.",
+            "Estudantes me usam muito.",
+            "Viajantes e campistas gostam de mim.",
+            "Tenho zíperes e bolsos.",
+            "Guardo livros, cadernos e roupas.",
+            "Posso ser feita de lona, nylon ou couro.",
+            "Deixo as mãos livres enquanto sou transportada.",
+            "Às vezes fico muito pesada.",
+            "Substituo a pasta ou a mala."
+        ]
+    },
+    {
+        "id": 300,
+        "palavra": "Carteira",
+        "tipo": "Objeto",
+        "dicas": [
+            "Costumo guardar dinheiro.",
+            "Fico no bolso ou na bolsa.",
+            "Guardo documentos importantes como RG e CNH.",
+            "Tenho compartimentos para cartões de crédito.",
+            "Geralmente sou feita de couro ou tecido.",
+            "Posso ter um lugar para colocar moedas.",
+            "Sou um acessório pessoal.",
+            "Perder-me causa uma grande dor de cabeça.",
+            "Dobro ao meio ou fecho com zíper.",
+            "Às vezes tenho fotos de família dentro."
+        ]
+    },
+    {
+        "id": 301,
+        "palavra": "Cinto",
+        "tipo": "Objeto",
+        "dicas": [
+            "Seguro as calças para não caírem.",
+            "Sou usado na cintura.",
+            "Tenho uma fivela.",
+            "Tenho furos para ajuste de tamanho.",
+            "Posso ser de couro ou tecido.",
+            "Sou também um acessório de moda.",
+            "No carro, sirvo para segurança.",
+            "Nas artes marciais, indico a graduação.",
+            "Passo por dentro dos passantes da roupa.",
+            "Posso apertar se você comer muito."
+        ]
+    },
+    {
+        "id": 302,
+        "palavra": "Tênis",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou um tipo de calçado.",
+            "Geralmente tenho cadarços.",
+            "Sou usado para praticar esportes.",
+            "Tenho sola de borracha para amortecimento.",
+            "Sou confortável para caminhar.",
+            "Existem marcas famosas como Nike e Adidas.",
+            "Protejo os pés.",
+            "Posso ter cano alto ou baixo.",
+            "Faço barulho de chiar em quadras poliesportivas.",
+            "Posso ter velcro em vez de cordões."
+        ]
+    },
+    {
+        "id": 303,
+        "palavra": "Caderno",
+        "tipo": "Objeto",
+        "dicas": [
+            "Tenho folhas de papel.",
+            "Sou usado na escola e no trabalho.",
+            "Sirvo para escrever anotações.",
+            "Posso ter espiral ou ser brochura.",
+            "Tenho linhas (pautas) para guiar a escrita.",
+            "Tenho capa mole ou dura.",
+            "Minhas folhas podem ser destacadas.",
+            "Geralmente tenho margens.",
+            "Preciso de uma caneta ou lápis para ser útil.",
+            "Posso ser dividido em matérias."
+        ]
+    },
+    {
+        "id": 304,
+        "palavra": "Livro",
+        "tipo": "Objeto",
+        "dicas": [
+            "Tenho capa, lombada e miolo.",
+            "Conto histórias ou transmito conhecimento.",
+            "Sou escrito por um autor.",
+            "Tenho muitas páginas numeradas.",
+            "Posso ser encontrado em bibliotecas.",
+            "Não preciso de bateria para funcionar.",
+            "Sou dividido em capítulos.",
+            "Tenho índice ou sumário.",
+            "O cheiro de quando sou novo é característico.",
+            "Posso ser de ficção ou não-ficção."
+        ]
+    },
+    {
+        "id": 305,
+        "palavra": "Jornal",
+        "tipo": "Objeto",
+        "dicas": [
+            "Trago as notícias do dia.",
+            "Sou feito de papel barato e reciclável.",
+            "Mancho os dedos de tinta preta às vezes.",
+            "Estou perdendo espaço para a internet.",
+            "Tenho seções de esportes, política e cultura.",
+            "Tenho palavras cruzadas e horóscopo.",
+            "Sou vendido em bancas.",
+            "Posso ser diário ou semanal.",
+            "Sirvo para embrulhar coisas depois de lido.",
+            "Tenho manchetes em letras grandes."
+        ]
+    },
+    {
+        "id": 306,
+        "palavra": "Rádio",
+        "tipo": "Objeto",
+        "dicas": [
+            "Capto ondas invisíveis.",
+            "Toco música e notícias.",
+            "Tenho estações AM e FM.",
+            "Não tenho tela, apenas som.",
+            "Posso funcionar a pilha ou tomada.",
+            "Tenho uma antena.",
+            "Locutores falam através de mim.",
+            "Fui o principal meio de comunicação antes da TV.",
+            "Existo dentro dos carros.",
+            "Sintonizo frequências."
+        ]
+    },
+    {
+        "id": 307,
+        "palavra": "Telefone",
+        "tipo": "Objeto",
+        "dicas": [
+            "Fico ligado a um fio na parede (geralmente).",
+            "Tenho um gancho para apoiar o fone.",
+            "Sirvo para fazer chamadas de voz.",
+            "Antigamente tinha um disco de girar.",
+            "Faço 'trim trim' quando alguém liga.",
+            "Fui inventado por Alexander Graham Bell (oficialmente).",
+            "Hoje em dia sou menos usado que o celular.",
+            "Tenho teclado numérico.",
+            "Posso ter ramais em escritórios.",
+            "Fico em uma base fixa."
+        ]
+    },
+    {
+        "id": 308,
+        "palavra": "Impressora",
+        "tipo": "Objeto",
+        "dicas": [
+            "Transfiro arquivos do computador para o papel.",
+            "Uso tinta ou toner.",
+            "Costumo travar ou ficar sem papel na hora da pressa.",
+            "Uso o padrão de cores CMYK.",
+            "Posso ser a laser ou jato de tinta.",
+            "Fico geralmente em escritórios e home offices.",
+            "Faço barulho rítmico enquanto trabalho.",
+            "Muitas vezes também sou scanner.",
+            "Preciso de cartuchos para funcionar.",
+            "Existo também na versão 3D hoje em dia."
+        ]
+    },
+    {
+        "id": 309,
+        "palavra": "Grampeador",
+        "tipo": "Objeto",
+        "dicas": [
+            "Uno folhas de papel.",
+            "Uso pequenos pedaços de metal.",
+            "Tenho que ser pressionado com força.",
+            "Sou comum em escritórios e escolas.",
+            "Se acabar minha munição, preciso ser recarregado.",
+            "Dobro as pontas do metal para fixar.",
+            "Posso ser de mesa ou de alicate.",
+            "Tenho uma parte debaixo que serve de bigorna.",
+            "Machuco o dedo se usado errado.",
+            "Mantenho documentos organizados juntos."
+        ]
+    },
+    {
+        "id": 310,
+        "palavra": "Borracha",
+        "tipo": "Objeto",
+        "dicas": [
+            "Apago o que foi escrito a lápis.",
+            "Vou diminuindo conforme sou usada.",
+            "Geralmente sou branca e macia.",
+            "Posso ter dois lados (azul e vermelho).",
+            "Faço sujeira (farelo) quando usada.",
+            "Sou item básico do estojo escolar.",
+            "Sou feita de látex ou vinil.",
+            "Tenho cheiro característico.",
+            "Não funciono bem com caneta.",
+            "Sirvo para corrigir erros."
+        ]
+    },
+    {
+        "id": 311,
+        "palavra": "Régua",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sirvo para medir distâncias curtas.",
+            "Ajudo a fazer traços retos.",
+            "Tenho marcações em centímetros e milímetros.",
+            "Geralmente tenho 30 cm.",
+            "Sou feita de plástico, madeira ou metal.",
+            "Sou transparente muitas vezes.",
+            "Estou no material escolar.",
+            "Arquitetos e engenheiros me usam.",
+            "Sou plana e fina.",
+            "Não sirvo para medir curvas."
+        ]
+    },
+    {
+        "id": 312,
+        "palavra": "Lâmpada",
+        "tipo": "Objeto",
+        "dicas": [
+            "Produzo luz artificial.",
+            "Símbolo de uma 'grande ideia'.",
+            "Fico rosqueada em um bocal.",
+            "Posso queimar e precisar ser trocada.",
+            "Thomas Edison a popularizou.",
+            "Antigamente tinha um filamento incandescente.",
+            "Hoje sou econômica (LED).",
+            "Ilumino casas e ruas à noite.",
+            "Sou feita de vidro ou plástico translúcido.",
+            "Preciso de eletricidade."
+        ]
+    },
+    {
+        "id": 313,
+        "palavra": "Vela",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou feita de cera ou parafina.",
+            "Tenho um pavio no meio.",
+            "O fogo me consome aos poucos.",
+            "Sou usada quando acaba a luz.",
+            "Estou presente em bolos de aniversário.",
+            "Crio um clima romântico.",
+            "Posso ser aromática.",
+            "Derreto com o calor.",
+            "Fui a principal fonte de luz antes da eletricidade.",
+            "Simbolizo fé em igrejas."
+        ]
+    },
+    {
+        "id": 314,
+        "palavra": "Fósforo",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou um palito de madeira.",
+            "Tenho uma cabeça vermelha (geralmente).",
+            "Preciso ser riscado para acender.",
+            "Moro em uma caixinha.",
+            "Produzo fogo.",
+            "Sou descartável após o uso.",
+            "Tenho cheiro de enxofre quando acendo.",
+            "Sirvo para acender o fogão ou velas.",
+            "Sou perigoso para crianças.",
+            "Queimo rápido."
+        ]
+    },
+    {
+        "id": 315,
+        "palavra": "Isqueiro",
+        "tipo": "Objeto",
+        "dicas": [
+            "Produzo fogo instantâneo.",
+            "Tenho gás ou fluido dentro.",
+            "Tenho uma pedra que faz faísca.",
+            "Sou usado para acender cigarros.",
+            "Sou portátil e caibo no bolso.",
+            "Faço um som de 'click'.",
+            "Posso ser recarregado ou descartável.",
+            "Substituo o fósforo.",
+            "Tenho uma pequena chama regulável.",
+            "Sou feito de plástico ou metal."
+        ]
+    },
+    {
+        "id": 316,
+        "palavra": "Extintor de Incêndio",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou vermelho.",
+            "Sirvo para apagar fogo.",
+            "Fico pendurado na parede em prédios.",
+            "Tenho um pino de segurança.",
+            "Tenho validade e preciso de recarga.",
+            "Existo nos tipos água, pó químico ou CO2.",
+            "Sou obrigatório em carros (ou já fui).",
+            "Tenho uma pequena mangueira.",
+            "Sou pesado.",
+            "Salvo vidas em emergências."
+        ]
+    },
+    {
+        "id": 317,
+        "palavra": "Boia",
+        "tipo": "Objeto",
+        "dicas": [
+            "Flutuo na água.",
+            "Sou cheia de ar.",
+            "Ajudo quem não sabe nadar.",
+            "Posso ter formato de pneu ou animais.",
+            "Sou usada em piscinas e no mar.",
+            "Salva-vidas usam uma versão minha.",
+            "Sou colorida e de plástico.",
+            "Sirvo para diversão ou segurança.",
+            "Sou colocada no braço de crianças.",
+            "Evito afogamentos."
+        ]
+    },
+    {
+        "id": 318,
+        "palavra": "Prancha de Surf",
+        "tipo": "Objeto",
+        "dicas": [
+            "Deslizo sobre a água.",
+            "Sou usada para pegar ondas.",
+            "Tenho uma quilha embaixo.",
+            "O surfista fica em pé em mim.",
+            "Sou feita de fibra e espuma.",
+            "Uso uma corda (leash) presa ao pé.",
+            "Preciso de parafina para não escorregar.",
+            "Gabriel Medina usa uma.",
+            "Sou comprida e estreita.",
+            "Fico na praia."
+        ]
+    },
+    {
+        "id": 319,
+        "palavra": "Skate",
+        "tipo": "Objeto",
+        "dicas": [
+            "Tenho quatro rodinhas pequenas.",
+            "Sou uma prancha de madeira.",
+            "Tenho uma lixa na parte de cima.",
+            "Sou usado para fazer manobras radicais.",
+            "Uso pistas em formato de U (half-pipe).",
+            "Tony Hawk é famoso por me usar.",
+            "Ando no asfalto.",
+            "Exijo equilíbrio.",
+            "Virei esporte olímpico.",
+            "Quem me usa são os skatistas."
+        ]
+    },
+    {
+        "id": 320,
+        "palavra": "Anel",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou usado no dedo.",
+            "Tenho formato circular.",
+            "Simbolizo compromisso ou casamento.",
+            "Posso ser de ouro ou prata.",
+            "Às vezes tenho uma pedra preciosa.",
+            "A aliança é um tipo de mim.",
+            "Sou uma joia ou bijuteria.",
+            "Um filme famoso fala sobre 'O Senhor' de mim.",
+            "Não tenho começo nem fim.",
+            "Posso ser ajustado se ficar largo."
+        ]
+    },
+    {
+        "id": 321,
+        "palavra": "Colar",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou usado no pescoço.",
+            "Posso ter um pingente.",
+            "Sou feito de corrente, cordão ou pérolas.",
+            "Sou um adorno de moda.",
+            "Posso ser curto ou comprido.",
+            "Fecho atrás do pescoço.",
+            "Valorizo o decote.",
+            "Posso ser uma joia cara.",
+            "Medalhas são penduradas em mim.",
+            "Enfeito o colo."
+        ]
+    },
+    {
+        "id": 322,
+        "palavra": "Brinco",
+        "tipo": "Objeto",
+        "dicas": [
+            "Fico na orelha.",
+            "Geralmente preciso de um furo para ser usado.",
+            "Venho em pares.",
+            "Posso ser de argola ou de pino.",
+            "Sou uma joia ou bijuteria.",
+            "Ilumino o rosto.",
+            "Piratas usavam um só.",
+            "Posso ser pequeno ou grande e pendurado.",
+            "Homens e mulheres usam.",
+            "Tenho uma tarraxa para não cair."
+        ]
+    },
+    {
+        "id": 323,
+        "palavra": "Batom",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou maquiagem.",
+            "Sou passado nos lábios.",
+            "A cor vermelha é a mais clássica.",
+            "Venho em um tubo que gira.",
+            "Posso ser líquido ou bastão.",
+            "Posso deixar marcas em copos e roupas.",
+            "Realço a boca.",
+            "Tenho várias cores e texturas (mate, cremoso).",
+            "Sou carregado na necessaire.",
+            "Posso borrar se comer."
+        ]
+    },
+    {
+        "id": 324,
+        "palavra": "Perfume",
+        "tipo": "Objeto",
+        "dicas": [
+            "Tenho um cheiro agradável.",
+            "Sou líquido.",
+            "Fico em frascos de vidro bonitos.",
+            "Sou borrifado no pescoço e pulsos.",
+            "Os franceses são famosos por me fazer.",
+            "Evaporo com o tempo.",
+            "Sou feito de essências e álcool.",
+            "Sou invisível, mas notado.",
+            "Posso ser doce, amadeirado ou cítrico.",
+            "Marca a identidade de uma pessoa."
+        ]
+    },
+    {
+        "id": 325,
+        "palavra": "Sabonete",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sirvo para lavar o corpo.",
+            "Faço espuma.",
+            "Posso ser em barra ou líquido.",
+            "Fico escorregadio quando molhado.",
+            "Tenho cheiro de limpeza.",
+            "Sou usado no banho.",
+            "Elimino sujeira e bactérias.",
+            "Arde se cair no olho.",
+            "Vou diminuindo até acabar.",
+            "Fico na saboneteira."
+        ]
+    },
+    {
+        "id": 326,
+        "palavra": "Shampoo",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sirvo para lavar o cabelo.",
+            "Faço espuma na cabeça.",
+            "Sou vendido em garrafas plásticas.",
+            "Geralmente sou usado antes do condicionador.",
+            "Limpo o couro cabeludo.",
+            "Posso ser anticaspa.",
+            "Sou líquido ou cremoso.",
+            "Tenho cheiro de frutas ou plantas.",
+            "Existem tipos para cabelos secos ou oleosos.",
+            "Dizem que 'não arde nos olhos' (mas arde)."
+        ]
+    },
+    {
+        "id": 327,
+        "palavra": "Papel Higiênico",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sou usado no banheiro.",
+            "Venho em rolos.",
+            "Sou feito de papel macio.",
+            "Sirvo para limpeza íntima.",
+            "Sou descartável.",
+            "Geralmente sou branco.",
+            "Desmancho na água (idealmente).",
+            "Fico num suporte ao lado do vaso.",
+            "É desesperador quando eu acabo.",
+            "Posso ter folha dupla ou tripla."
+        ]
+    },
+    {
+        "id": 328,
+        "palavra": "Fralda",
+        "tipo": "Objeto",
+        "dicas": [
+            "Bebês usam.",
+            "Seguro o xixi e o cocô.",
+            "Posso ser de pano ou descartável.",
+            "Tenho fitas adesivas laterais.",
+            "Evito sujeira na roupa.",
+            "Preciso ser trocada com frequência.",
+            "Mães carregam várias na bolsa.",
+            "Idosos também podem usar.",
+            "Absorvo líquidos.",
+            "Crio um volume no bumbum do bebê."
+        ]
+    },
+    {
+        "id": 329,
+        "palavra": "Mamadeira",
+        "tipo": "Objeto",
+        "dicas": [
+            "Sirvo para alimentar bebês.",
+            "Tenho um bico de borracha ou silicone.",
+            "Levo leite, suco ou água.",
+            "Tenho marcações de volume (ml).",
+            "Substituo o peito materno.",
+            "Preciso ser esterilizada.",
+            "Posso ser de plástico ou vidro.",
+            "Tenho uma tampa para proteger o bico.",
+            "Bebês seguram com as duas mãos.",
+            "O líquido sai por um furinho."
+        ]
+    },
+    {
+        "id": 330,
+        "palavra": "Chupeta",
+        "tipo": "Objeto",
+        "dicas": [
+            "Bebês sugam para acalmar.",
+            "Não tem alimento dentro.",
+            "Tem um bico e uma argola.",
+            "Ajuda o bebê a dormir.",
+            "Dentistas não gostam muito de mim.",
+            "Feita de plástico e silicone.",
+            "Pode cair no chão e precisa lavar.",
+            "Às vezes é presa na roupa por uma corrente.",
+            "Substitui o dedo na boca.",
+            "É difícil tirar o hábito de me usar."
+        ]
+    },
+    {
+        "id": 331,
+        "palavra": "Berço",
+        "tipo": "Objeto",
+        "dicas": [
+            "É uma cama pequena.",
+            "Tem grades laterais para segurança.",
+            "O bebê dorme aqui.",
+            "Tem um colchão pequeno.",
+            "Às vezes tem um móbile pendurado em cima.",
+            "Fica no quarto das crianças.",
+            "O bebê deixa de usar quando cresce e aprende a pular.",
+            "Pode balançar para ninar.",
+            "Protege contra quedas.",
+            "Pode ter mosquiteiro."
+        ]
+    },
+    {
+        "id": 332,
+        "palavra": "Ventilador",
+        "tipo": "Objeto",
+        "dicas": [
+            "Faço vento.",
+            "Tenho hélices que giram rápido.",
+            "Alivio o calor.",
+            "Posso ser de teto, mesa ou chão.",
+            "Faço um barulho constante ('zum').",
+            "Funciono com eletricidade.",
+            "Tenho uma grade de proteção.",
+            "Giro de um lado para o outro.",
+            "Não gela o ar, apenas movimenta.",
+            "Espanto mosquitos com o vento."
+        ]
+    },
+    {
+        "id": 333,
+        "palavra": "Ar-condicionado",
+        "tipo": "Objeto",
+        "dicas": [
+            "Deixo o ambiente gelado.",
+            "Controlo a temperatura exata.",
+            "Gasto muita energia elétrica.",
+            "Tenho um controle remoto.",
+            "Sou amado no verão.",
+            "Preciso ficar com janelas fechadas.",
+            "Pingo água do lado de fora.",
+            "Tenho filtro que precisa limpar.",
+            "Faço barulho de motor.",
+            "Sou instalado na parede ou janela."
+        ]
+    },
+    {
+        "id": 334,
+        "palavra": "Controle Remoto",
+        "tipo": "Objeto",
+        "dicas": [
+            "Comando a TV à distância.",
+            "Tenho muitos botões.",
+            "Funciono com pilhas.",
+            "Vivo perdido no sofá.",
+            "Uso sinal infravermelho.",
+            "Mudo o canal e o volume.",
+            "Ninguém gosta de levantar para fazer minha função.",
+            "Posso controlar ar-condicionado também.",
+            "Às vezes preciso de uns tapinhas para funcionar.",
+            "Sou feito de plástico."
+        ]
+    },
+    {
+        "id": 335,
+        "palavra": "Pilha",
+        "tipo": "Objeto",
+        "dicas": [
+            "Armazeno energia química.",
+            "Tenho polo positivo e negativo.",
+            "Faço brinquedos e controles funcionarem.",
+            "Venho nos tamanhos AA, AAA, C, D.",
+            "Posso vazar se ficar velha.",
+            "Algumas de mim são recarregáveis.",
+            "Sou cilíndrica (geralmente).",
+            "Não posso ser jogada no lixo comum.",
+            "Tenho lítio ou alcalina.",
+            "Dou vida a eletrônicos portáteis."
+        ]
+    },
+    {
+        "id": 336,
+        "palavra": "Carregador de Celular",
+        "tipo": "Objeto",
+        "dicas": [
+            "Tenho um cabo e uma fonte (plugue).",
+            "Ligo na tomada.",
+            "Dou energia ao smartphone.",
+            "Todo mundo pede um emprestado.",
+            "O cabo costuma quebrar na ponta.",
+            "Posso ter entrada USB-C ou Lightning.",
+            "Sem mim, o telefone 'morre'.",
+            "Esquento um pouco quando uso.",
+            "Sou essencial em viagens.",
+            "Posso ser portátil (power bank)."
+        ]
     }
 ]
