@@ -391,23 +391,6 @@
         ]
     },
     {
-        "id": 24,
-        "palavra": "Relógio",
-        "tipo": "Objeto",
-        "dicas": [
-            "Sou usado para ver as horas.",
-            "Posso ser de pulso ou de parede.",
-            "Funciono com bateria ou engrenagens.",
-            "Sou importante para organização do dia.",
-            "Minha invenção mudou o mundo.",
-            "Sou composto de ponteiros ou números digitais.",
-            "Estou presente em quase todos os lugares.",
-            "Sou um acessório de moda também.",
-            "Sou preciso na contagem do tempo.",
-            "Sem mim, horários seriam um caos."
-        ]
-    },
-    {
         "id": 25,
         "palavra": "Travesseiro",
         "tipo": "Objeto",
@@ -2309,23 +2292,6 @@
             "Há muitas frases atribuídas a mim.",
             "Meu nome aparece em livros de história.",
             "Meu sobrenome começa com A."
-        ]
-    },
-    {
-        "id": 151,
-        "palavra": "Frida Kahlo",
-        "tipo": "Pessoa",
-        "dicas": [
-            "Sou pintora.",
-            "Minha arte é marcada por símbolos fortes.",
-            "Sofri um acidente que mudou minha vida.",
-            "Tenho origem latino-americana.",
-            "Sou conhecida por autorretratos.",
-            "Meu estilo é considerado único.",
-            "Meu nome aparece em museus e exposições.",
-            "Fui casada com outro artista famoso.",
-            "Me tornei um ícone cultural.",
-            "Meu sobrenome começa com K."
         ]
     },
     {
@@ -5220,7 +5186,7 @@
     },
     {
         "id": 333,
-        "palavra": "Ar-condicionado",
+        "palavra": "Ar condicionado",
         "tipo": "Objeto",
         "dicas": [
             "Deixo o ambiente gelado.",
@@ -5271,7 +5237,7 @@
     },
     {
         "id": 336,
-        "palavra": "Carregador de Celular",
+        "palavra": "Carregador",
         "tipo": "Objeto",
         "dicas": [
             "Tenho um cabo e uma fonte (plugue).",
