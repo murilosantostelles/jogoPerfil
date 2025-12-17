@@ -3415,5 +3415,1195 @@
             "Sou feito de fibras.",
             "Meu nome começa com T."
         ]
+    },
+    {
+        "id": 227,
+        "palavra": "Silvio Santos",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Comecei minha carreira trabalhando como camelô.",
+            "Sou um dos maiores comunicadores da TV brasileira.",
+            "Meu nome de batismo é Senor Abravanel.",
+            "Fundo uma emissora de televisão famosa.",
+            "Tenho um riso muito característico.",
+            "Ficava famoso por jogar aviõezinhos de dinheiro.",
+            "Apresentei programas aos domingos por décadas.",
+            "Já fui candidato à presidência do Brasil.",
+            "Minhas filhas também trabalham na TV.",
+            "O 'Baú da Felicidade' é ligado a mim."
+        ]
+    },
+    {
+        "id": 228,
+        "palavra": "Roberto Carlos",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou conhecido como 'O Rei'.",
+            "Tenho um especial de TV todo fim de ano.",
+            "Sou um cantor e compositor brasileiro.",
+            "Fiz muito sucesso na Jovem Guarda.",
+            "Tenho uma perna mecânica.",
+            "Canto a música 'Detalhes'.",
+            "Gosto muito da cor azul.",
+            "Minha mãe se chamava Lady Laura.",
+            "Sou capixaba (nasci no Espírito Santo).",
+            "Já vendi milhões de discos na América Latina."
+        ]
+    },
+    {
+        "id": 229,
+        "palavra": "Dom Pedro II",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui o último imperador do Brasil.",
+            "Assumi o trono ainda criança.",
+            "Governei por quase 50 anos.",
+            "Era apaixonado por fotografia e ciência.",
+            "Tinha uma barba longa e branca na velhice.",
+            "Fui exilado na Europa após a Proclamação da República.",
+            "Minha filha assinou a Lei Áurea.",
+            "Nasci no Rio de Janeiro.",
+            "Falava diversos idiomas.",
+            "Fui patrono das artes e da educação."
+        ]
+    },
+    {
+        "id": 230,
+        "palavra": "Tiradentes",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Meu nome verdadeiro era Joaquim José.",
+            "Fui dentista amador.",
+            "Participei da Inconfidência Mineira.",
+            "Fui enforcado e esquartejado.",
+            "Sou considerado um herói nacional.",
+            "Tenho um feriado no dia 21 de abril.",
+            "Lutei contra os altos impostos de Portugal.",
+            "Minha imagem é frequentemente associada a Jesus Cristo.",
+            "Nasci em Minas Gerais.",
+            "Gritava por liberdade."
+        ]
+    },
+    {
+        "id": 231,
+        "palavra": "Zumbi dos Palmares",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui o último líder do Quilombo dos Palmares.",
+            "Sou símbolo da resistência negra no Brasil.",
+            "O dia da minha morte é o Dia da Consciência Negra.",
+            "Lutei contra a escravidão no período colonial.",
+            "Nasci livre, mas fui capturado ainda criança.",
+            "Minha cabeça foi exposta em praça pública.",
+            "Vivi na região da Serra da Barriga.",
+            "Dizem que eu não me entregava jamais.",
+            "Fui traído por um companheiro.",
+            "Meu nome remete a guerreiro ou espírito."
+        ]
+    },
+    {
+        "id": 232,
+        "palavra": "Oscar Niemeyer",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou um arquiteto mundialmente famoso.",
+            "Amei as curvas e o concreto armado.",
+            "Projetei os principais prédios de Brasília.",
+            "Vivi mais de 100 anos.",
+            "Fui comunista convicto.",
+            "O Sambódromo do Rio de Janeiro é obra minha.",
+            "Trabalhei com Lúcio Costa.",
+            "Ganhei o prêmio Pritzker.",
+            "Desenhei a sede da ONU em Nova York.",
+            "Dizia que a vida é um sopro."
+        ]
+    },
+    {
+        "id": 233,
+        "palavra": "Gisele Bündchen",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou uma supermodelo brasileira.",
+            "Nasci no Rio Grande do Sul.",
+            "Fui uma das 'Angels' da Victoria's Secret.",
+            "Tenho uma irmã gêmea.",
+            "Namorei Leonardo DiCaprio.",
+            "Fui casada com um jogador de futebol americano famoso.",
+            "Aposentei-me das passarelas em 2015.",
+            "Sou ativista ambiental.",
+            "Fiz uma participação no filme 'O Diabo Veste Prada'.",
+            "Fui a modelo mais bem paga do mundo por anos."
+        ]
+    },
+    {
+        "id": 234,
+        "palavra": "Neymar",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou jogador de futebol.",
+            "Fui revelado pelo Santos.",
+            "Uso a camisa 10 da Seleção Brasileira.",
+            "Joguei no Barcelona e no PSG.",
+            "Ganhei uma medalha de ouro olímpica.",
+            "Fiz parte do trio MSN (Messi, Suárez e eu).",
+            "Tenho fama de cair bastante em campo.",
+            "Meu pai gerencia minha carreira.",
+            "Já ganhei a Libertadores.",
+            "Transferi-me para o futebol da Arábia Saudita."
+        ]
+    },
+    {
+        "id": 235,
+        "palavra": "Lewis Hamilton",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou piloto de Fórmula 1.",
+            "Nasci na Inglaterra.",
+            "Tenho sete títulos mundiais.",
+            "Fiz história na equipe Mercedes.",
+            "Sou o primeiro piloto negro na categoria.",
+            "Recebi o título de Cavaleiro da Rainha.",
+            "Sou cidadão honorário do Brasil.",
+            "Idolatrado por fãs de Ayrton Senna.",
+            "Sou vegano e ativista.",
+            "Tenho o número 44 no carro."
+        ]
+    },
+    {
+        "id": 236,
+        "palavra": "Fernanda Montenegro",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou considerada a grande dama do teatro brasileiro.",
+            "Fui indicada ao Oscar de Melhor Atriz.",
+            "Atuei no filme 'Central do Brasil'.",
+            "Minha filha também é uma atriz famosa.",
+            "Sou membro da Academia Brasileira de Letras.",
+            "Nasci no Rio de Janeiro.",
+            "Comecei minha carreira no rádio.",
+            "Ganhei o Urso de Prata em Berlim.",
+            "Tenho mais de 90 anos.",
+            "Meu sobrenome artístico é nome de um país (mas não o meu)."
+        ]
+    },
+    {
+        "id": 237,
+        "palavra": "Martin Luther King Jr.",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui um pastor batista norte-americano.",
+            "Lutei pelos direitos civis dos negros.",
+            "Fiz um discurso famoso: 'Eu tenho um sonho'.",
+            "Ganhei o Prêmio Nobel da Paz.",
+            "Pregava a não-violência.",
+            "Fui assassinado em 1968.",
+            "Liderei boicotes a ônibus segregados.",
+            "Tenho um feriado nacional nos EUA.",
+            "Meu nome é inspirado em um reformador religioso.",
+            "Nasci em Atlanta."
+        ]
+    },
+    {
+        "id": 238,
+        "palavra": "Papa Francisco",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou o líder da Igreja Católica.",
+            "Nasci na Argentina.",
+            "Sou o primeiro latino-americano no meu cargo.",
+            "Gosto muito de futebol e torço para o San Lorenzo.",
+            "Meu nome de batismo é Jorge Bergoglio.",
+            "Pertenço à ordem dos Jesuítas.",
+            "Substituí Bento XVI.",
+            "Escolhi meu nome em homenagem ao santo de Assis.",
+            "Moro no Vaticano.",
+            "Defendo causas ambientais e os pobres."
+        ]
+    },
+    {
+        "id": 239,
+        "palavra": "Rainha Elizabeth II",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui monarca do Reino Unido por 70 anos.",
+            "Adorava cães da raça Corgi.",
+            "Vi passar mais de 15 primeiros-ministros.",
+            "Meu rosto estava em moedas e selos.",
+            "Fui mecânica durante a Segunda Guerra Mundial.",
+            "Tive quatro filhos, incluindo o atual Rei Charles.",
+            "Celebrei o Jubileu de Platina.",
+            "Vivi no Palácio de Buckingham.",
+            "Falecei em 2022.",
+            "Raramente dava entrevistas."
+        ]
+    },
+    {
+        "id": 240,
+        "palavra": "Princesa Diana",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Era conhecida como Lady Di.",
+            "Fui casada com o Príncipe Charles.",
+            "Morri em um acidente de carro em Paris.",
+            "Era chamada de 'A Princesa do Povo'.",
+            "Fiz campanhas contra minas terrestres.",
+            "Sou mãe dos príncipes William e Harry.",
+            "Era um ícone da moda.",
+            "Meu divórcio foi um escândalo mundial.",
+            "Fui professora de jardim de infância antes da fama.",
+            "Tinha uma relação difícil com a imprensa."
+        ]
+    },
+    {
+        "id": 241,
+        "palavra": "Walt Disney",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Criei o camundongo mais famoso do mundo.",
+            "Fundo um império de entretenimento.",
+            "Construí o primeiro grande parque temático na Califórnia.",
+            "Ganhei o recorde de Oscars individuais.",
+            "Fiz o primeiro longa de animação: 'Branca de Neve'.",
+            "Dizem a lenda que fui congelado (mas é mito).",
+            "Comecei desenhando em uma garagem.",
+            "Meu irmão Roy foi meu sócio.",
+            "Tenho assinatura muito famosa.",
+            "Criei o personagem Pato Donald."
+        ]
+    },
+    {
+        "id": 242,
+        "palavra": "Steve Jobs",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui cofundador da Apple.",
+            "Revolucionei os smartphones com o iPhone.",
+            "Fui demitido da minha própria empresa e depois voltei.",
+            "Comprei a estúdio que virou a Pixar.",
+            "Usava sempre blusa preta de gola alta e jeans.",
+            "Morri de câncer no pâncreas.",
+            "Apresentava produtos dizendo 'One more thing...'.",
+            "Lancei o iPad e o iPod.",
+            "Era conhecido por ser perfeccionista e difícil.",
+            "Comecei a empresa na garagem dos pais."
+        ]
+    },
+    {
+        "id": 243,
+        "palavra": "Bill Gates",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui o homem mais rico do mundo por muitos anos.",
+            "Funde a Microsoft.",
+            "Abandonei a faculdade de Harvard.",
+            "Criei o sistema operacional Windows.",
+            "Sou muito focado em filantropia hoje em dia.",
+            "Tenho uma fundação com minha ex-esposa Melinda.",
+            "Previ uma pandemia anos antes de acontecer.",
+            "Sou amigo de Warren Buffett.",
+            "Uso óculos desde jovem.",
+            "Escrevi livros sobre o futuro e o clima."
+        ]
+    },
+    {
+        "id": 244,
+        "palavra": "Mark Zuckerberg",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Criei a rede social Facebook.",
+            "Estudava em Harvard quando comecei meu negócio.",
+            "Sou dono do Instagram e do WhatsApp.",
+            "Minha empresa agora se chama Meta.",
+            "Fui retratado no filme 'A Rede Social'.",
+            "Falo mandarim.",
+            "Sou um dos bilionários mais jovens da história.",
+            "Visto sempre camisetas cinzas básicas.",
+            "Depus no congresso americano sobre privacidade.",
+            "Tenho foco no metaverso."
+        ]
+    },
+    {
+        "id": 245,
+        "palavra": "Michael Jackson",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou o Rei do Pop.",
+            "Comecei a cantar ainda criança com meus irmãos.",
+            "Criei o passo de dança 'Moonwalk'.",
+            "Meu álbum 'Thriller' é o mais vendido da história.",
+            "Usava uma luva branca em uma mão só.",
+            "Tinha um rancho chamado Neverland.",
+            "Minha pele ficou branca devido ao vitiligo.",
+            "Morri em 2009.",
+            "Cantei 'Billie Jean' e 'Beat It'.",
+            "Fui um ícone dos videoclipes."
+        ]
+    },
+    {
+        "id": 246,
+        "palavra": "Elvis Presley",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou o Rei do Rock.",
+            "Minha casa se chama Graceland.",
+            "Morri em 1977, mas muitos dizem que não morri.",
+            "Tinha um topete famoso.",
+            "Servi ao exército no auge da fama.",
+            "Fiz muitos filmes em Hollywood.",
+            "Nasci no Mississippi, EUA.",
+            "Usava macacões brancos com pedrarias.",
+            "Ficava famoso pelo rebolado polêmico.",
+            "Cantei 'Love Me Tender'."
+        ]
+    },
+    {
+        "id": 247,
+        "palavra": "John Lennon",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui membro dos Beatles.",
+            "Compus a música 'Imagine'.",
+            "Era casado com Yoko Ono.",
+            "Usava óculos redondos característicos.",
+            "Fui assassinado em Nova York.",
+            "Fiz protestos pela paz na cama.",
+            "Nasci em Liverpool.",
+            "Disse que minha banda era mais popular que Jesus.",
+            "Toquei guitarra e piano.",
+            "Tenho um memorial no Central Park."
+        ]
+    },
+    {
+        "id": 248,
+        "palavra": "Freddie Mercury",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui vocalista da banda Queen.",
+            "Nasci em Zanzibar (atual Tanzânia).",
+            "Meu nome verdadeiro era Farrokh Bulsara.",
+            "Cantei 'Bohemian Rhapsody'.",
+            "Tinha um bigode icônico.",
+            "Minha performance no Live Aid é lendária.",
+            "Morri em decorrência da AIDS.",
+            "Tinha uma voz muito potente.",
+            "O filme sobre minha vida ganhou Oscar.",
+            "Estudei design gráfico."
+        ]
+    },
+    {
+        "id": 249,
+        "palavra": "Beyoncé",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Comecei no grupo Destiny's Child.",
+            "Sou chamada de Queen B.",
+            "Sou casada com o rapper Jay-Z.",
+            "Tenho uma filha chamada Blue Ivy.",
+            "Lancei um álbum visual chamado 'Lemonade'.",
+            "Sou a artista com mais Grammys na história.",
+            "Nasci no Texas, EUA.",
+            "Cantei 'Single Ladies'.",
+            "Atuei no filme 'O Rei Leão' (voz) e 'Dreamgirls'.",
+            "Fiz uma turnê mundial chamada Renaissance."
+        ]
+    },
+    {
+        "id": 250,
+        "palavra": "Taylor Swift",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Comecei cantando música country.",
+            "Escrevo músicas sobre meus ex-namorados.",
+            "Minha turnê 'The Eras Tour' quebrou recordes.",
+            "Regravei meus álbuns para ter os direitos deles.",
+            "Tenho uma legião de fãs chamados 'Swifties'.",
+            "Nasci em 1989 (nome de um álbum meu).",
+            "Tive uma briga famosa com Kanye West.",
+            "Gosto muito de gatos.",
+            "Namorei um jogador de futebol americano (Travis Kelce).",
+            "Ganhei o Grammy de Álbum do Ano várias vezes."
+        ]
+    },
+    {
+        "id": 251,
+        "palavra": "Tom Cruise",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Faço meus próprios dublês em cenas perigosas.",
+            "Sou a estrela da franquia 'Missão Impossível'.",
+            "Pilotei caças no filme 'Top Gun'.",
+            "Sou um membro famoso da Cientologia.",
+            "Já fui casado com Nicole Kidman e Katie Holmes.",
+            "Pulei no sofá da Oprah Winfrey.",
+            "Corro muito em quase todos os meus filmes.",
+            "Atuei em 'Rain Man'.",
+            "Tenho um sorriso muito famoso.",
+            "Não envelheço (aparentemente)."
+        ]
+    },
+    {
+        "id": 252,
+        "palavra": "Will Smith",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fiquei famoso na série 'Um Maluco no Pedaço'.",
+            "Sou ator e rapper.",
+            "Atuei na trilogia 'Homens de Preto'.",
+            "Ganhei um Oscar pelo filme 'King Richard'.",
+            "Dei um tapa em Chris Rock ao vivo na TV.",
+            "Sou pai de Jaden e Willow.",
+            "Cantei a música tema do meu seriado.",
+            "Fiz o gênio no live-action de 'Aladdin'.",
+            "Nasci na Filadélfia.",
+            "Já fui chamado de 'Fresh Prince'."
+        ]
+    },
+    {
+        "id": 253,
+        "palavra": "Johnny Depp",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fiquei famoso interpretando o Capitão Jack Sparrow.",
+            "Tenho uma parceria longa com o diretor Tim Burton.",
+            "Fiz o personagem Edward Mãos de Tesoura.",
+            "Tive um julgamento muito midiático contra minha ex.",
+            "Toquei em uma banda chamada Hollywood Vampires.",
+            "Fiz o Chapeleiro Maluco.",
+            "Já fui o homem mais sexy do mundo.",
+            "Tenho muitas tatuagens.",
+            "Fui dono de um clube famoso, o Viper Room.",
+            "Atuei no primeiro 'A Hora do Pesadelo'."
+        ]
+    },
+    {
+        "id": 254,
+        "palavra": "Charlie Chaplin",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou o ícone do cinema mudo.",
+            "Meu personagem mais famoso é 'O Vagabundo'.",
+            "Usava chapéu coco e bengala.",
+            "Tinha um bigodinho curto.",
+            "Andava de um jeito engraçado.",
+            "Fiz o filme 'O Grande Ditador'.",
+            "Nasci na Inglaterra.",
+            "Fui um dos fundadores da United Artists.",
+            "Recebi um Oscar honorário e fui aplaudido por minutos.",
+            "Compus a música 'Smile'."
+        ]
+    },
+    {
+        "id": 255,
+        "palavra": "Abraham Lincoln",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui o 16º presidente dos Estados Unidos.",
+            "Liderei o país durante a Guerra Civil.",
+            "Aboli a escravidão no meu país.",
+            "Usava uma cartola muito alta.",
+            "Fui assassinado em um teatro.",
+            "Meu rosto está na nota de 5 dólares.",
+            "Nasci em uma cabana de madeira.",
+            "Era conhecido pela minha altura.",
+            "Fui advogado antes da política.",
+            "Discursei em Gettysburg."
+        ]
+    },
+    {
+        "id": 256,
+        "palavra": "Napoleão Bonaparte",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui imperador da França.",
+            "Nasci na ilha de Córsega.",
+            "Fui exilado na ilha de Santa Helena.",
+            "Perdi a Batalha de Waterloo.",
+            "Dizem que eu era muito baixo (mito).",
+            "Sempre retratado com a mão dentro do casaco.",
+            "Conquistei grande parte da Europa.",
+            "Criei um código civil famoso.",
+            "Casei-me com Josefina.",
+            "Meu exército sofreu muito no inverno russo."
+        ]
+    },
+    {
+        "id": 257,
+        "palavra": "Júlio César",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui um ditador de Roma.",
+            "Fui assassinado com facadas no Senado.",
+            "Disse a frase 'Veni, vidi, vici' (Vim, vi e venci).",
+            "Tive um romance com Cleópatra.",
+            "Fui traído pelo meu filho adotivo Brutus.",
+            "Reformei o calendário (Calendário Juliano).",
+            "Conquistei a Gália (atual França).",
+            "Meu nome virou sinônimo de imperador (Kaiser, Czar).",
+            "Cruzei o rio Rubicão.",
+            "Nasci em uma família patrícia."
+        ]
+    },
+    {
+        "id": 258,
+        "palavra": "Alexandre, o Grande",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Fui rei da Macedônia.",
+            "Fui aluno do filósofo Aristóteles.",
+            "Criei um dos maiores impérios do mundo antigo.",
+            "Nunca perdi uma batalha.",
+            "Morri muito jovem, aos 32 anos.",
+            "Tinha um cavalo famoso chamado Bucéfalo.",
+            "Fundo a cidade de Alexandria no Egito.",
+            "Cortei o Nó Górdio.",
+            "Meu pai era Filipe II.",
+            "Conquistei o Império Persa."
+        ]
+    },
+    {
+        "id": 259,
+        "palavra": "Christiane Torloni",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou uma atriz brasileira famosa.",
+            "Fiz a frase meme: 'Hoje é dia de rock, bebê'.",
+            "Atuei na novela 'A Viagem' como Diná.",
+            "Fiz muitas novelas na Rede Globo.",
+            "Fui musa nos anos 80 e 90.",
+            "Participei do Rock in Rio quando disse minha frase famosa.",
+            "Fiz a vilã Tereza Cristina em 'Fina Estampa'.",
+            "Tenho uma voz marcante.",
+            "Nasci em São Paulo.",
+            "Já posei para a revista Playboy."
+        ]
+    },
+    {
+        "id": 260,
+        "palavra": "Faustão",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Meu nome é Fausto Silva.",
+            "Apresentei o 'Domingão' por 32 anos.",
+            "Tenho o bordão 'Oloco, meu!'.",
+            "Sempre falo 'quem sabe faz ao vivo'.",
+            "Gosto de usar relógios grandes.",
+            "Comecei como repórter esportivo.",
+            "Tive um quadro chamado 'Videocassetadas'.",
+            "Saí da Globo e fui para a Band.",
+            "Passo por um transplante de coração recente.",
+            "Minha esposa é Luciana Cardoso."
+        ]
+    },
+    {
+        "id": 261,
+        "palavra": "Ivete Sangalo",
+        "tipo": "Pessoa",
+        "dicas": [
+            "Sou cantora de Axé.",
+            "Nasci na Bahia (Juazeiro).",
+            "Fui vocalista da Banda Eva.",
+            "Levanto poeira nos meus shows.",
+            "Sou chamada de 'Veveta'.",
+            "Apresentei o programa 'The Masked Singer'.",
+            "Já cantei no Maracanã lotado.",
+            "Tenho muita energia no palco.",
+            "Sou uma das cantoras mais populares do Brasil.",
+            "Tenho filhos gêmeos."
+        ]
+    },
+    {
+        "id": 262,
+        "palavra": "Torre Eiffel",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou o símbolo máximo de Paris.",
+            "Fui construída para uma Exposição Universal em 1889.",
+            "Sou feita de treliças de ferro.",
+            "Muitos artistas da época me odiaram quando fui erguida.",
+            "Tenho mais de 300 metros de altura.",
+            "Fico no Campo de Marte.",
+            "Recebo milhões de turistas todos os anos.",
+            "Tenho restaurantes no meu interior.",
+            "À noite, brilho com milhares de luzes.",
+            "Levo o sobrenome do meu engenheiro criador."
+        ]
+    },
+    {
+        "id": 263,
+        "palavra": "Estátua da Liberdade",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico em uma ilha na entrada de Nova York.",
+            "Fui um presente da França para os Estados Unidos.",
+            "Seguro uma tocha na mão direita.",
+            "Minha cor verde é devido à oxidação do cobre.",
+            "Tenho correntes quebradas nos meus pés.",
+            "Represento a deusa romana Libertas.",
+            "Minha coroa tem sete raios.",
+            "Fui a primeira visão de muitos imigrantes que chegavam de navio.",
+            "É possível subir até a minha coroa.",
+            "Seguro uma tábua com a data da independência americana."
+        ]
+    },
+    {
+        "id": 264,
+        "palavra": "Muralha da China",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou uma estrutura militar de defesa.",
+            "Tenho milhares de quilômetros de extensão.",
+            "Fui construída ao longo de várias dinastias.",
+            "Dizem que sou visível do espaço (mas é exagero).",
+            "Fui feita para proteger contra invasões do norte.",
+            "Sou feita de pedra, tijolo e terra compactada.",
+            "Muitos trabalhadores morreram na minha construção.",
+            "Atravesso desertos e montanhas.",
+            "Sou o maior monumento do mundo em comprimento.",
+            "Fico na Ásia."
+        ]
+    },
+    {
+        "id": 265,
+        "palavra": "Taj Mahal",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou um mausoléu de mármore branco.",
+            "Fico na cidade de Agra, na Índia.",
+            "Fui construído por um imperador para sua esposa favorita.",
+            "Sou considerado uma das maiores provas de amor do mundo.",
+            "Tenho uma cúpula central enorme.",
+            "Sou cercado por quatro minaretes.",
+            "Meus jardins são simétricos.",
+            "Mudo de cor dependendo da luz do sol.",
+            "Recebo milhões de visitantes.",
+            "Sou Patrimônio Mundial da UNESCO."
+        ]
+    },
+    {
+        "id": 266,
+        "palavra": "Big Ben",
+        "tipo": "Lugar",
+        "dicas": [
+            "Na verdade, sou o nome do sino, não da torre.",
+            "Fico no Palácio de Westminster.",
+            "Sou o relógio mais famoso de Londres.",
+            "Minha torre foi renomeada para Elizabeth Tower.",
+            "Toco notas musicais a cada hora.",
+            "Fico às margens do rio Tâmisa.",
+            "Tenho estilo neogótico.",
+            "Fui concluído em 1859.",
+            "Tenho quatro faces de relógio.",
+            "Sou um símbolo da pontualidade britânica."
+        ]
+    },
+    {
+        "id": 267,
+        "palavra": "Casa Branca",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a residência oficial do presidente dos EUA.",
+            "Meu endereço é Avenida Pensilvânia, 1600.",
+            "Fico em Washington, D.C.",
+            "Tenho o famoso Salão Oval.",
+            "Já fui incendiada pelos britânicos em 1814.",
+            "Tenho uma ala oeste (West Wing) famosa.",
+            "Minha fachada é neoclássica.",
+            "Tenho um bunker subterrâneo.",
+            "Recebo chefes de estado do mundo todo.",
+            "Meu nome vem da cor das minhas paredes externas."
+        ]
+    },
+    {
+        "id": 268,
+        "palavra": "Vaticano",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou o menor país do mundo.",
+            "Fico dentro da cidade de Roma.",
+            "Sou a sede da Igreja Católica.",
+            "O Papa mora aqui.",
+            "Tenho a Basílica de São Pedro.",
+            "Guardo a Capela Sistina e os afrescos de Michelangelo.",
+            "Tenho minha própria guarda, a Guarda Suíça.",
+            "Possuo correios e selos próprios.",
+            "Não faço parte da União Europeia, mas uso Euro.",
+            "Recebo peregrinos o ano inteiro."
+        ]
+    },
+    {
+        "id": 269,
+        "palavra": "Hollywood",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico em Los Angeles, Califórnia.",
+            "Sou o centro da indústria cinematográfica americana.",
+            "Tenho um letreiro gigante numa colina.",
+            "Tenho a Calçada da Fama.",
+            "Aqui acontece a cerimônia do Oscar.",
+            "Muitos estúdios de cinema começaram aqui.",
+            "Sou sinônimo de celebridades e glamour.",
+            "Tenho o Teatro Chinês.",
+            "Turistas buscam ver estrelas de cinema nas ruas.",
+            "Meu nome significa 'bosque de azevinho'."
+        ]
+    },
+    {
+        "id": 270,
+        "palavra": "Disney World",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Flórida, perto de Orlando.",
+            "Sou o maior complexo de parques temáticos do mundo.",
+            "Tenho o castelo da Cinderela.",
+            "Fui idealizado por Walt, mas inaugurado por seu irmão.",
+            "Tenho quatro parques principais.",
+            "O rato Mickey é meu anfitrião.",
+            "Tenho um parque futurista chamado Epcot.",
+            "Recebo famílias do mundo inteiro.",
+            "Tenho hotéis e parques aquáticos dentro de mim.",
+            "Sou chamado de 'O Lugar Mais Mágico da Terra'."
+        ]
+    },
+    {
+        "id": 271,
+        "palavra": "Las Vegas",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico no meio do deserto de Nevada.",
+            "Sou famosa pelos cassinos e hotéis luxuosos.",
+            "Minha rua principal é chamada de 'Strip'.",
+            "Tenho réplicas da Torre Eiffel e de Veneza.",
+            "Sou conhecida como a 'Cidade do Pecado'.",
+            "Muitas pessoas vêm aqui para casar em capelas rápidas.",
+            "Tenho shows residentes de grandes artistas.",
+            "O que acontece aqui, fica aqui.",
+            "Tenho muitas luzes neon.",
+            "Fui cenário do filme 'Se Beber, Não Case'."
+        ]
+    },
+    {
+        "id": 272,
+        "palavra": "Triângulo das Bermudas",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico no Oceano Atlântico.",
+            "Sou famoso por desaparecimentos misteriosos.",
+            "Meus vértices são Flórida, Porto Rico e Bermudas.",
+            "Aviões e navios supostamente somem aqui.",
+            "Muitas lendas envolvem alienígenas ou portais.",
+            "Cientistas culpam tempestades e erros humanos.",
+            "Não apareço em mapas oficiais com esse nome.",
+            "Sou tema de muitos documentários e filmes.",
+            "Bússolas podem falhar na minha região.",
+            "Sou uma área de tráfego intenso, apesar da fama."
+        ]
+    },
+    {
+        "id": 273,
+        "palavra": "Polo Norte",
+        "tipo": "Lugar",
+        "dicas": [
+            "Não tenho terra firme, sou gelo flutuante.",
+            "Fico no meio do Oceano Ártico.",
+            "Dizem que o Papai Noel mora aqui.",
+            "Tenho 6 meses de dia e 6 meses de noite.",
+            "Ursos polares vivem na minha região.",
+            "Sou o ponto mais setentrional da Terra.",
+            "O gelo está derretendo devido ao aquecimento global.",
+            "Não pertenço a nenhum país especificamente.",
+            "A estrela Polaris fica quase acima de mim.",
+            "Exploradores competiram para chegar aqui primeiro."
+        ]
+    },
+    {
+        "id": 274,
+        "palavra": "Lua",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou o único satélite natural da Terra.",
+            "O homem pisou em mim em 1969.",
+            "Tenho crateras visíveis a olho nu.",
+            "Influencio as marés dos oceanos.",
+            "Não tenho luz própria, apenas reflito o sol.",
+            "Tenho fases (cheia, nova, minguante, crescente).",
+            "A gravidade aqui é bem mais fraca que na Terra.",
+            "Um dia aqui dura cerca de 27 dias terrestres.",
+            "Neil Armstrong caminhou na minha superfície.",
+            "Tenho um lado oculto que nunca é visto da Terra."
+        ]
+    },
+    {
+        "id": 275,
+        "palavra": "Marte",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou conhecido como o Planeta Vermelho.",
+            "Sou o quarto planeta do sistema solar.",
+            "Tenho o maior vulcão do sistema solar (Monte Olimpo).",
+            "Robôs como Curiosity e Perseverance andam por aqui.",
+            "Elon Musk quer colonizar minha superfície.",
+            "Tenho duas luas pequenas.",
+            "Minha atmosfera é fina e irrespirável.",
+            "Cientistas buscam sinais de água antiga aqui.",
+            "Sou vizinho da Terra.",
+            "Levo o nome do deus romano da guerra."
+        ]
+    },
+    {
+        "id": 276,
+        "palavra": "Rio Nilo",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na África.",
+            "Atravesso o deserto do Saara.",
+            "Sou fundamental para a história do Egito Antigo.",
+            "Deságuo no Mar Mediterrâneo.",
+            "Tenho crocodilos famosos.",
+            "Disputo o título de maior rio do mundo com o Amazonas.",
+            "Minhas cheias fertilizavam as terras agrícolas antigas.",
+            "Passo por cidades como Cairo e Cartum.",
+            "Nasço no Lago Vitória (uma das nascentes).",
+            "Tenho um delta enorme na minha foz."
+        ]
+    },
+    {
+        "id": 277,
+        "palavra": "Veneza",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Itália.",
+            "Não tenho carros nas ruas principais.",
+            "Minhas 'ruas' são canais de água.",
+            "O transporte é feito por barcos e gôndolas.",
+            "Tenho a famosa Praça de São Marcos.",
+            "Sofro com inundações periódicas ('Acqua Alta').",
+            "Sou famosa pelo vidro de Murano.",
+            "Tenho um carnaval com máscaras elegantes.",
+            "Fui construída sobre estacas de madeira.",
+            "A Ponte dos Suspiros fica aqui."
+        ]
+    },
+    {
+        "id": 278,
+        "palavra": "Amsterdã",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Holanda (Países Baixos).",
+            "Tenho mais bicicletas do que pessoas.",
+            "Sou cortada por canais concêntricos.",
+            "A Casa de Anne Frank fica aqui.",
+            "Tenho museus famosos como o de Van Gogh.",
+            "Sou conhecida pela tolerância e liberalismo.",
+            "Tenho o Distrito da Luz Vermelha.",
+            "Minhas casas são estreitas e altas.",
+            "Muitas pessoas moram em casas-barco.",
+            "Tulipas são muito vendidas nos meus mercados."
+        ]
+    },
+    {
+        "id": 279,
+        "palavra": "Berlim",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Alemanha.",
+            "Fui dividida por um muro durante a Guerra Fria.",
+            "Tenho o Portão de Brandemburgo.",
+            "Fui palco de grandes eventos da Segunda Guerra Mundial.",
+            "Tenho uma ilha cheia de museus.",
+            "Sou famosa pela música eletrônica e vida noturna.",
+            "O Reichstag (parlamento) tem uma cúpula de vidro.",
+            "Fui reunificada em 1990.",
+            "Tenho uma torre de TV muito alta na Alexanderplatz.",
+            "Sou uma cidade muito verde e artística."
+        ]
+    },
+    {
+        "id": 280,
+        "palavra": "Moscou",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Rússia.",
+            "Tenho a Praça Vermelha.",
+            "O Kremlin é a sede do meu governo.",
+            "Tenho a Catedral de São Basílio com cúpulas coloridas.",
+            "Meus invernos são rigorosos.",
+            "Tenho um dos metrôs mais bonitos do mundo.",
+            "Fico na parte europeia do país.",
+            "O Teatro Bolshoi (balé) fica aqui.",
+            "Fui invadida por Napoleão, que encontrou a cidade vazia.",
+            "O corpo de Lenin está exposto aqui."
+        ]
+    },
+    {
+        "id": 281,
+        "palavra": "Jerusalém",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou sagrada para judeus, cristãos e muçulmanos.",
+            "Tenho o Muro das Lamentações.",
+            "O Domo da Rocha brilha na minha paisagem.",
+            "Fico entre o Mediterrâneo e o Mar Morto.",
+            "Jesus passou seus últimos dias aqui.",
+            "Fui destruída e reconstruída muitas vezes.",
+            "Sou uma das cidades mais antigas do mundo.",
+            "Tenho bairros divididos por religião na Cidade Velha.",
+            "A Igreja do Santo Sepulcro fica aqui.",
+            "Sou foco de disputas políticas há séculos."
+        ]
+    },
+    {
+        "id": 282,
+        "palavra": "Meca",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Arábia Saudita.",
+            "Sou a cidade mais sagrada do Islã.",
+            "Apenas muçulmanos podem entrar na minha área sagrada.",
+            "Abrigo a Caaba (cubo preto).",
+            "Milhões de peregrinos vêm aqui todo ano.",
+            "Todo muçulmano deve me visitar uma vez na vida.",
+            "As pessoas rezam voltadas para mim.",
+            "Sou o local de nascimento do profeta Maomé.",
+            "Tenho a maior mesquita do mundo.",
+            "Fico em uma região desértica."
+        ]
+    },
+    {
+        "id": 283,
+        "palavra": "Pantanal",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a maior planície inundável do mundo.",
+            "Fico principalmente no Brasil (Mato Grosso e MS).",
+            "Tenho uma biodiversidade imensa.",
+            "A onça-pintada é meu maior predador.",
+            "O tuiuiú é minha ave símbolo.",
+            "Fico alagado durante parte do ano.",
+            "Sou um destino de ecoturismo e pesca.",
+            "Estendo-me também pela Bolívia e Paraguai.",
+            "Tenho jacarés e capivaras em abundância.",
+            "Sou considerado Patrimônio Natural da Humanidade."
+        ]
+    },
+    {
+        "id": 284,
+        "palavra": "Lençóis Maranhenses",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico no nordeste do Brasil.",
+            "Pareço um deserto, mas chove bastante aqui.",
+            "Tenho dunas de areia branca a perder de vista.",
+            "Lagoas de água doce se formam entre as dunas.",
+            "As lagoas Azul e Bonita são famosas.",
+            "Minha paisagem muda com o vento.",
+            "Fico no estado do Maranhão.",
+            "Sou um Parque Nacional.",
+            "A melhor época para visitar é após as chuvas.",
+            "Já fui cenário de filmes (como Vingadores)."
+        ]
+    },
+    {
+        "id": 285,
+        "palavra": "Chapada Diamantina",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico no coração da Bahia.",
+            "Tenho muitas cachoeiras, grutas e cânions.",
+            "Fui centro da exploração de diamantes no passado.",
+            "Tenho o Morro do Pai Inácio.",
+            "A Cachoeira da Fumaça (uma das mais altas do Brasil) fica aqui.",
+            "Minha água muitas vezes tem cor avermelhada.",
+            "O Poço Azul é uma atração famosa.",
+            "Sou paraíso para quem gosta de trilhas (trekking).",
+            "Tenho uma cidadezinha charmosa chamada Lençóis.",
+            "Sou um Parque Nacional."
+        ]
+    },
+    {
+        "id": 286,
+        "palavra": "Avenida Paulista",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a rua mais famosa de São Paulo.",
+            "O MASP (museu) fica em mim.",
+            "Sou o centro financeiro da cidade.",
+            "Fico fechada para carros aos domingos.",
+            "Tenho muitas antenas de rádio e TV.",
+            "Fui endereço dos barões do café no passado.",
+            "Hoje sou cheia de prédios comerciais e shoppings.",
+            "A corrida de São Silvestre passa por mim.",
+            "Sou palco de grandes manifestações populares.",
+            "Tenho estações de metrô ao longo de toda a extensão."
+        ]
+    },
+    {
+        "id": 287,
+        "palavra": "Maracanã",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou um templo do futebol mundial.",
+            "Fico no Rio de Janeiro.",
+            "Sedi duas finais de Copa do Mundo.",
+            "Já recebi públicos de quase 200 mil pessoas.",
+            "Meu nome oficial é Jornalista Mário Filho.",
+            "Times como Flamengo e Fluminense jogam aqui.",
+            "Fui reformado para a Copa de 2014.",
+            "Tenho formato oval.",
+            "O milésimo gol de Pelé foi aqui.",
+            "Shows de grandes artistas como Paul McCartney acontecem aqui."
+        ]
+    },
+    {
+        "id": 288,
+        "palavra": "Torre de Pisa",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Itália.",
+            "Sou famosa por ser torta.",
+            "Comecei a inclinar durante a construção.",
+            "Sou o campanário (torre de sinos) da catedral ao lado.",
+            "Galileu supostamente jogou objetos do meu topo.",
+            "Fui estabilizada para não cair.",
+            "Sou feita de mármore branco.",
+            "Turistas tiram fotos fingindo que estão me segurando.",
+            "Tenho oito andares.",
+            "Sou Patrimônio Mundial da UNESCO."
+        ]
+    },
+    {
+        "id": 289,
+        "palavra": "Ilha de Páscoa",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou um dos lugares mais isolados do mundo.",
+            "Pertenço ao Chile.",
+            "Tenho estátuas de pedra gigantes chamadas Moai.",
+            "Minhas estátuas têm cabeças enormes.",
+            "Fico no Oceano Pacífico.",
+            "Meu nome nativo é Rapa Nui.",
+            "Fui descoberta por europeus num domingo de Páscoa.",
+            "É um mistério como transportaram as pedras gigantes.",
+            "Tenho origem vulcânica.",
+            "Não tenho muitas árvores hoje em dia."
+        ]
+    },
+    {
+        "id": 290,
+        "palavra": "Chernobyl",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Ucrânia.",
+            "Fui palco do pior acidente nuclear da história.",
+            "A cidade vizinha, Pripyat, é uma cidade fantasma.",
+            "Aconteceu em 1986.",
+            "Tenho uma zona de exclusão ao redor.",
+            "A natureza tomou conta das construções abandonadas.",
+            "Ainda há radiação no local.",
+            "Turistas corajosos visitam a área hoje.",
+            "Fiz parte da União Soviética.",
+            "Um sarcófago de concreto cobre o reator explodido."
+        ]
+    },
+    {
+        "id": 291,
+        "palavra": "Alcatraz",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fui uma prisão de segurança máxima.",
+            "Fico em uma ilha na baía de São Francisco.",
+            "Era considerada impossível de fugir.",
+            "O gângster Al Capone ficou preso aqui.",
+            "Hoje sou um ponto turístico.",
+            "Sou chamada de 'A Rocha'.",
+            "Fui fechada nos anos 60.",
+            "A água ao redor é gelada e tem correnteza forte.",
+            "Já fui ocupada por ativistas indígenas.",
+            "Inspirei muitos filmes de fuga."
+        ]
+    },
+    {
+        "id": 292,
+        "palavra": "Transilvânia",
+        "tipo": "Lugar",
+        "dicas": [
+            "Fico na Romênia.",
+            "Sou uma região cercada pelas montanhas Cárpatos.",
+            "Sou o lar lendário do Conde Drácula.",
+            "Tenho muitos castelos medievais, como o Castelo de Bran.",
+            "Sou famosa por lendas de vampiros.",
+            "Tenho florestas densas e neblina.",
+            "Minhas cidades têm arquitetura gótica e medieval.",
+            "O príncipe Vlad, o Empalador, viveu na região.",
+            "Sou uma região histórica real, não fictícia.",
+            "Atraio turistas no Halloween."
+        ]
+    },
+    {
+        "id": 293,
+        "palavra": "Nova York",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a cidade mais populosa dos EUA.",
+            "Meu apelido é 'Big Apple' (Grande Maçã).",
+            "Tenho a Times Square.",
+            "A Broadway e seus teatros ficam aqui.",
+            "Sou dividida em cinco distritos (como Brooklyn e Manhattan).",
+            "Tenho o Central Park no meio da cidade.",
+            "O Empire State Building é um dos meus ícones.",
+            "Wall Street é meu centro financeiro.",
+            "Sofri os ataques de 11 de setembro.",
+            "Dizem que sou a cidade que nunca dorme."
+        ]
+    },
+    {
+        "id": 294,
+        "palavra": "Madri",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Espanha.",
+            "Tenho o Museu do Prado.",
+            "O Palácio Real fica aqui.",
+            "Sou famosa pelas 'tapas' (petiscos).",
+            "Tenho dois grandes times de futebol (Real e Atlético).",
+            "A praça Puerta del Sol é meu marco zero.",
+            "Fico no centro geográfico do país.",
+            "Tenho um parque famoso chamado Retiro.",
+            "Minha vida noturna é muito agitada.",
+            "Falo castelhano."
+        ]
+    },
+    {
+        "id": 295,
+        "palavra": "Roma",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Itália.",
+            "Sou chamada de 'Cidade Eterna'.",
+            "Tenho o Coliseu.",
+            "Fui o centro de um dos maiores impérios da história.",
+            "A Fontana di Trevi fica aqui.",
+            "O Vaticano fica dentro de mim.",
+            "Dizem que todos os caminhos levam a mim.",
+            "Fui fundada, segundo a lenda, por Rômulo e Remo.",
+            "Tenho ruínas antigas por toda parte.",
+            "O Rio Tibre me corta."
+        ]
+    },
+    {
+        "id": 296,
+        "palavra": "Londres",
+        "tipo": "Lugar",
+        "dicas": [
+            "Sou a capital da Inglaterra e do Reino Unido.",
+            "O Rio Tâmisa passa por mim.",
+            "Tenho ônibus vermelhos de dois andares.",
+            "A família real britânica mora aqui (Palácio de Buckingham).",
+            "Tenho uma roda-gigante chamada London Eye.",
+            "Sou famosa pela neblina e chuva.",
+            "Tenho o metrô mais antigo do mundo (Underground).",
+            "A Tower Bridge é minha ponte mais famosa.",
+            "Sedi as Olimpíadas de 2012.",
+            "Tenho cabines telefônicas vermelhas."
+        ]
     }
 ]
